@@ -10,32 +10,7 @@
         {% if config.author %}<meta name="author" content="{{ config.author }}">{% endif %}
         {% if config.isbn %}<meta name="identifier" content="{{ config.isbn }}" scheme="ISBN">{% endif %}
 
-        <script>
-          (function(d) {
-            var config = {
-              kitId: 'juy4flo',
-              scriptTimeout: 3000,
-              async: true
-            },
-            h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-          })(document);
-        </script>
-
         {% block style %}
-          <style>
-            .wf-loading h1,
-            .wf-loading h2,
-            .wf-loading h3,
-            .wf-loading h4,
-            .wf-loading h5,
-            .wf-loading h6,
-            .wf-loading p,
-            .wf-loading ul,
-            .wf-loading ol {
-              visibility: hidden;
-            }
-          </style>
-
           {% for resource in plugins.resources.css %}
               {% if resource.url %}
               <link rel="stylesheet" href="{{ resource.url }}">
