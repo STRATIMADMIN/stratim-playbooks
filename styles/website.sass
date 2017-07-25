@@ -1,0 +1,52 @@
+$stratim-black: #1f242c;
+$stratim-blue: #2c2a3e;
+
+
+// Hacks
+
+// Hiding unneeded UI elements from the page through CSS, but ideally need to figure out how to do it cleanly with templating language
+.font-settings
+  display: none;
+
+
+
+// Legit style
+
+.book,
+.book-summary
+  font-weight: 16px;
+  font-family: 'neuzeit-grotesk', 'proxima nova', proxima-nova, sans-serif !important;
+
+.book-summary
+  color: #fafafa;
+  background: $stratim-black;
+
+  #book-search-input
+    padding: 6px;
+    color: #aaa;
+    background: #222;
+    border-bottom: 1px solid lighten($stratim-blue, 8%);
+
+  ul.summary
+    margin-top: 1rem;
+
+    li.divider
+      background: lighten($stratim-blue, 8%);
+
+    li a,
+    li span
+      padding: 8px 15px;
+      color: #aaa;
+
+    li:not(.active) a:hover,
+    li:not(.active) a:focus
+      color: #fff;
+
+    li.header
+      padding: 20px 15px 10px;
+      text-transform: uppercase;
+      color: #ccc;
+      font-weight: 600;
+
+    li.active > a
+      color: lightblue;
