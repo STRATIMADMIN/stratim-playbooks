@@ -1,5 +1,5 @@
-$stratim-black: #1f242c;
-$stratim-blue: #2c2a3e;
+$brand-black: #1f242c;
+$brand-blue: #2c2a3e;
 
 
 // Hacks
@@ -8,30 +8,68 @@ $stratim-blue: #2c2a3e;
 .font-settings
   display: none;
 
+.book-header .pull-right
+  display: none;
 
 
 // Legit style
 
+body,
 .book,
 .book-summary
-  font-weight: 16px;
+  font-weight: 18px !important;
   font-family: 'neuzeit-grotesk', 'proxima nova', proxima-nova, sans-serif !important;
 
 .book-summary
   color: #fafafa;
-  background: $stratim-black;
+  background: $brand-black;
 
   #book-search-input
-    padding: 6px;
+    position: relative;
+    overflow: auto;
+    margin: 1.25rem 0;
     color: #aaa;
-    background: #222;
-    border-bottom: 1px solid lighten($stratim-blue, 8%);
+    background-image: linear-gradient(to right, darken($brand-blue, 2%), $brand-black);
+    border: 1px solid lighten($brand-blue, 6%);
+    border-width: 1px 0;
+
+    .fa-search
+      position: absolute;
+      top: 17px;
+      left: 15px;
+
+    input
+      padding-left: 30px;
 
   ul.summary
     margin-top: 1rem;
 
+    li .stratim-logo
+
+      *
+        margin: 0;
+
+      img
+        margin-right: 0.5rem;
+        // transform: translateY(-1px);
+
+      h2
+        color: lighten($brand-blue, 50%);
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        transition: all 0.3s ease-out;
+
+      &:hover,
+      &:focus
+        text-decoration: none;
+
+        h2
+          color: #fff;
+          transition: all 0.3s ease-in;
+
     li.divider
-      background: lighten($stratim-blue, 8%);
+      background-image: linear-gradient(to right, lighten($brand-blue, 5%), $brand-black);
 
     li a,
     li span

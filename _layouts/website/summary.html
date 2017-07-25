@@ -30,20 +30,19 @@
 <ul class="summary">
 
   <li>
-    <span><img src="https://www.stratim.com/assets/images/logo-white.svg" alt="STRATIM logo" width="120"></span>
+    <a class="stratim-logo" href="/">
+      <h2><img src="https://www.stratim.com/assets/images/logo-white.svg" alt="STRATIM logo" width="108"> Playbook</h2>
+    </a>
   </li>
-
-  <li class="divider"></li>
 
   {% block search_input %}
   <div id="book-search-input" role="search">
-      <input type="text" placeholder="{{ 'SEARCH_PLACEHOLDER'|t }}" />
+    <i class="fa fa-search"></i>
+    <input type="text" placeholder="{{ 'SEARCH_PLACEHOLDER'|t }}" />
   </div>
   {% endblock %}
 
-  <!-- <li class="divider"></li> -->
-
-  {% set _divider = false %}
+  <!-- {% set _divider = false %}
   {% if config.links.sidebar  %}
   {% for linkTitle, link in config.links.sidebar  %}
       {% set _divider = true %}
@@ -51,11 +50,11 @@
           <a href="{{ link }}" target="_blank" class="custom-link">{{ linkTitle }}</a>
       </li>
   {% endfor %}
-  {% endif %}
+  {% endif %} -->
 
-  {% if _divider %}
+  <!-- {% if _divider %}
   <li class="divider"></li>
-  {% endif %}
+  {% endif %} -->
 
   {% for part in summary.parts %}
       {% if part.title %}
