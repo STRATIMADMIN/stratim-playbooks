@@ -40,37 +40,43 @@
 
     <div class="book-body">
         {% block book_body %}
+
             <div class="body-inner">
+
                 {% block book_inner %}
                     {% include "website/header.html" %}
 
                     <div class="page-wrapper" tabindex="-1" role="main">
                         <div class="page-inner">
-                            {% block search_results %}
-                            <div id="book-search-results">
-                                <div class="search-noresults">
-                                  {{ super() }}
-                                  <section class="normal markdown-section">
-                                  {% block page %}
-                                    {{ page.content|safe }}
-                                  {% endblock %}
-                                  </section>
+
+                          {% block search_results %}
+                          <div id="book-search-results">
+                              <div class="search-noresults">
+                                {{ super() }}
+                                <section class="normal markdown-section">
+                                {% block page %}
+                                  {{ page.content|safe }}
+                                {% endblock %}
+                                </section>
+                              </div>
+                              <div class="search-results">
+                                <div class="has-results">
+                                    {% block search_has_results %}
+                                    <section class="normal markdown-section">
+                                      <h1 class="search-results-title">{{ 'SEARCH_RESULTS_TITLE'|t|safe }}</h1>
+                                      <ul class="search-results-list"></ul>
+                                    </section>
+                                    {% endblock %}
                                 </div>
-                                <div class="search-results">
-                                    <div class="has-results">
-                                        {% block search_has_results %}
-                                        <h1 class="search-results-title">{{ 'SEARCH_RESULTS_TITLE'|t|safe }}</h1>
-                                        <ul class="search-results-list"></ul>
-                                        {% endblock %}
-                                    </div>
-                                    <div class="no-results">
-                                        {% block search_no_results %}
-                                        <h1 class="search-results-title">{{ 'SEARCH_NO_RESULTS_TITLE'|t|safe }}</h1>
-                                        {% endblock %}
-                                    </div>
+                                <div class="no-results">
+                                    {% block search_no_results %}
+                                    <h1 class="search-results-title">{{ 'SEARCH_NO_RESULTS_TITLE'|t|safe }}</h1>
+                                    {% endblock %}
                                 </div>
-                            </div>
-                            {% endblock %}
+                              </div>
+                          </div>
+                          {% endblock %}
+
                         </div>
                     </div>
                 {% endblock %}
@@ -89,6 +95,7 @@
                 </a>
                 {% endif %}
             {% endblock %}
+
         {% endblock %}
     </div>
 

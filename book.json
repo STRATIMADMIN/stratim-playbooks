@@ -1,5 +1,5 @@
 {
-  "plugins": ["styles-sass", "atoc", "-lunr", "-search", "search-plus-mod"],
+  "plugins": ["styles-sass", "-atoc", "-lunr", "-search", "search-plus-mod"],
   "pluginsConfig": {
     "atoc": {
       "addClass": true,
