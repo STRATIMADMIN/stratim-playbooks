@@ -1,3 +1,6 @@
+$body-font-size: 1.15em;
+$ui-font-size: 1.4rem;
+
 $brand-black: #1f242c;
 $brand-blue: #2c2a3e;
 
@@ -16,9 +19,10 @@ $brand-blue: #2c2a3e;
 
 body,
 .book,
-.book-summary
-  font-weight: 18px !important;
-  font-family: 'neuzeit-grotesk' !important;
+.book-summary,
+.book.font-family-1
+  font-size: 14px;
+  font-family: 'neuzeit-grotesk', 'proxima nova', 'proxima-nova', verdana, sans-serif;
 
 .book-summary
   color: #fafafa;
@@ -28,7 +32,7 @@ body,
     position: relative;
     overflow: auto;
     margin: 1.25rem 0;
-    color: #aaa;
+    color: #fff;
     background-image: linear-gradient(to right, darken($brand-blue, 2%), $brand-black);
     border: 1px solid lighten($brand-blue, 6%);
     border-width: 1px 0;
@@ -38,8 +42,22 @@ body,
       top: 17px;
       left: 15px;
 
-    input
+    input[type="text"]
       padding-left: 30px;
+      font-size: $ui-font-size;
+
+    input[type="text"]::-webkit-input-placeholder
+      color: lighten($brand-blue, 45%);
+
+    input[type="text"]::-moz-placeholder
+      color: lighten($brand-blue, 45%);
+
+    input[type="text"]:-ms-input-placeholder
+      color: lighten($brand-blue, 45%);
+
+    input[type="text"]:-moz-placeholder
+      color: lighten($brand-blue, 45%);
+
 
   ul.summary
     margin-top: 1rem;
@@ -58,7 +76,7 @@ body,
         font-weight: 400;
         text-transform: uppercase;
         letter-spacing: 2px;
-        transition: all 0.3s ease-out;
+        transition: all 0.12s linear;
 
       &:hover,
       &:focus
@@ -66,19 +84,23 @@ body,
 
         h2
           color: #fff;
-          transition: all 0.3s ease-in;
+          transition: all 0.12s linear;
 
     li.divider
       background-image: linear-gradient(to right, lighten($brand-blue, 5%), $brand-black);
 
     li a,
     li span
-      padding: 8px 15px;
+      padding: 6px 15px;
       color: #aaa;
+
+    li:not(.active) a
+      transition: all 0.12s linear;
 
     li:not(.active) a:hover,
     li:not(.active) a:focus
       color: #fff;
+      transition: all 0.12s linear;
 
     li.header
       padding: 20px 15px 10px;
@@ -86,5 +108,51 @@ body,
       color: #ccc;
       font-weight: 600;
 
-    li.active > a
+    li.header,
+    li.chapter
+      font-size: $ui-font-size;
+
+    li.active > a,
+    li.active > a:hover,
+    li.active > a:focus
       color: lightblue;
+      // cursor: default;
+
+
+
+.book.font-size-2 .book-body .page-inner section
+  font-size: $body-font-size;
+
+.markdown-section
+  line-height: 1.42;
+
+  h1, h2, h3, h4, h5, h6
+    margin-top: 0.875em;
+    margin-bottom: 0.375em;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+
+  h1
+    font-size: $body-font-size * 2;
+    font-weight: 300;
+
+  h2
+    font-size: $body-font-size * 1.6;
+    font-weight: 300;
+
+  h3
+    font-size: $body-font-size * 1.25;
+    font-weight: 600;
+
+  h4
+    font-size: $body-font-size * 1.1;
+    font-weight: 600;
+
+  h5
+    font-size: $body-font-size * 1.1;
+    font-weight: 400;
+
+  h6
+    font-size: $body-font-size / 1.2;
+    font-weight: 600;
+    opacity: 0.8;

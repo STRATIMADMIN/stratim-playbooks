@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-### Part I
+### Book I
 
 * [Volume 1](/volume-one/readme.md)
   * [Chapter 1](/volume-one/chapter-one.md)
@@ -10,7 +10,7 @@
 
 ----
 
-### Part 2
+### Book II
 
 * [Volume 1](/volume-one/readme.md)
   * [Chapter 1](/volume-one/chapter-one.md)
