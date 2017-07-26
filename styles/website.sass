@@ -1,8 +1,44 @@
 $body-font-size: 1.15em;
 $ui-font-size: 1.4rem;
 
-$brand-black: #1f242c;
+// $brand-black: #1f242c;
 $brand-blue: #2c2a3e;
+
+// COLOURS
+// =======================================
+
+$brand-black: #1f242c;
+$brand-white: #eef3fa;
+$brand-grey: #7e909c;
+$brand-warm: #ebe2e5;
+
+$headline-black: #3d4453;
+$headline-grey: #939ca2;
+
+$brand-background-light: #FBFCFC;
+
+$brand-gradient-start: $brand-background-light;
+$brand-gradient-end: #8a9ba6;
+
+// UI colours
+
+$cta-blue: #82dcff;
+
+// Solutions Colours
+
+$move-start: #cc2045; // move red
+$move-end: #313455; // move dark blue
+$move-gradient: linear-gradient(48deg, #dc1c43, #3b3e71);
+$move-gradient-invert: linear-gradient(48deg, #3b3e71 0%, #dc1c43 72%);
+
+$control-start: #619de5; // control blue
+$control-end: #552265; // control purple
+$control-gradient: linear-gradient(48deg, $control-start, #5b62a7, $control-end);
+
+
+//
+
+$brand-highlight: $cta-blue;
 
 
 // Hacks
@@ -33,7 +69,7 @@ body,
     overflow: auto;
     margin: 1.25rem 0;
     color: #fff;
-    background-image: linear-gradient(to right, darken($brand-blue, 2%), $brand-black);
+    background-image: linear-gradient(14deg, darken($brand-blue, 2%), $brand-black);
     border: 1px solid lighten($brand-blue, 6%);
     border-width: 1px 0;
 
@@ -87,7 +123,7 @@ body,
           transition: all 0.12s linear;
 
     li.divider
-      background-image: linear-gradient(to right, lighten($brand-blue, 5%), $brand-black);
+      background-image: linear-gradient(14deg, lighten($brand-blue, 5%), $brand-black);
 
     li a,
     li span
@@ -115,13 +151,15 @@ body,
     li.active > a,
     li.active > a:hover,
     li.active > a:focus
-      color: lightblue;
+      color: $brand-highlight;
       // cursor: default;
+      border-right: 4px solid $brand-highlight;
 
 
-
+// Typography
 .book.font-size-2 .book-body .page-inner section
   font-size: $body-font-size;
+  color: #444;
 
 .markdown-section
   line-height: 1.42;
@@ -131,6 +169,7 @@ body,
     margin-bottom: 0.375em;
     text-transform: uppercase;
     letter-spacing: 1.5px;
+    color: $headline-black;
 
   h1
     font-size: $body-font-size * 2;
@@ -155,4 +194,16 @@ body,
   h6
     font-size: $body-font-size / 1.2;
     font-weight: 600;
-    opacity: 0.8;
+    color: $headline-grey;
+
+
+// Custom book body modifications
+.book-body.color-inverted
+  background: url('/_assets/hero-grid.svg') no-repeat center center, linear-gradient(14deg, $brand-blue, $brand-black);
+  background-size: cover;
+
+  .page-inner section
+    color: #aaa !important;
+
+  h1, h2, h3, h4, h5
+    color: #fafafa;
