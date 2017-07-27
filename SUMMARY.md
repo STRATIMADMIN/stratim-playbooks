@@ -10,6 +10,11 @@
 * [Volume 1](/volume-one/readme.md)
   * [Chapter 1](/volume-one/chapter-one.md)
   * [Chapter 2](/volume-one/chapter-two.md)
+  * Test
+* [Test Volume](volume-one/test.md)
+  * Test Chapter
+
+## What we do
 
 ## Our values
 
