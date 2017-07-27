@@ -8,7 +8,7 @@
 ## Playbook General
 
 * [Who we are](/volume-one/readme.md)
-  * [Chapter 1](/volume-one/chapter-one.md)
+  * [Chapter 1](volume-one/readme.md#how-do-we-win)
   * [Chapter 2](/volume-one/chapter-two.md)
 * [What we do](volume-one/test.md)
   * [Test Chapter](volume-one/test/test-chapter.md)
