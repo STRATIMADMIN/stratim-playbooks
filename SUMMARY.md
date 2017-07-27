@@ -5,7 +5,7 @@
 * [Cover](README.md)
 * [About this book](test.md)
 
-## Who we are
+## Playbook General
 
 * [Volume 1](/volume-one/readme.md)
   * [Chapter 1](/volume-one/chapter-one.md)
@@ -14,7 +14,9 @@
 * [Test Volume](volume-one/test.md)
   * Test Chapter
 
-## What we do
+## Engineering Playbook
+
+## Sales Playbook
 
 ## Our values
 
