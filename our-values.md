@@ -1,3 +1,5 @@
+-_Once the posters have been created we can add them here too-_
+
 # STRATIM Values
 
 ### Move Fast; Think Big
