@@ -1,6 +1,9 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
+* [test](test.md)
 
 ## Who we are
 
@@ -11,5 +14,4 @@
 ## Our values
 
 * [Our values](our-values.md)
-* test
 
