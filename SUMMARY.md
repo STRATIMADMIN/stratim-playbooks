@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* [Introduction](README.md)
-* [test](test.md)
+* [Cover](README.md)
+* [About this book](test.md)
 
 ## Who we are
 
