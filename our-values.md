@@ -1,22 +1,16 @@
+# STRATIM Values
+
 ### Move Fast; Think Big
 
 * **Dare mighty things.** We’re in the future business. Be bold, courageous and audacious. Dream big: nothing great ever came from playing it safe.
 * **Make it happen.** We do what we dream. Have a bias for action. Talk is cheap, execution is everything.
 * Build long term value. Execute with intention, not impulsion. Balance acting urgently in the now, with a laser focus on the future. Our decisions maximize long term value, they don’t paper over the cracks.
 
-
-
-
-
-### Make Others Successful 
+### Make Others Successful
 
 * **Empower and enable.** We’re obsessed with helping others to succeed - especially our customers and team. We find ways to solve their problems, exceed their expectations and give them the tools to win.
 * **Prioritize empathy.** See the world through the lens of others. Listen intently to gain understanding, then wow them with what they need, not just what they want.
 * **Take pride in the achievement of others.** We see the success of others as our own. When they win, so do we. Great people make everyone around them better.
-
-
-
-
 
 ### Embrace Uncertainty
 
@@ -24,19 +18,11 @@
 * **Come with solutions.** It’s not enough to spot a gap or identify a problem. Come with ideas of how to fill it. For every problem there are hundreds of solutions. Pick one and bring it to the table. 
 * **Make complex things simple.** Uncertainty is often chaotic and complex. That’s where we’re in our element. We constantly push to make things simpler and more intuitive. The most elegant solution is often the simplest one. 
 
-
-
-
-
 ### Never Settle
 
 * **Push to grow.** We’re not content with being comfortable, instead we get restless. Personal growth and professional development are the bedrock of a winning team. When we grow individually, we grow as a team.
 * **Dig deeper, ask why.** Don’t accept a solution without understanding the problem. Question consensus, in the workplace and beyond. Break down a problem to its root cause then form an opinion and act with conviction. It’s good to challenge: do so with humility.
 * **Focus on the details.** Be meticulous about metrics and sweat the small stuff; from pixels to punctuation. Attention to the details drives us towards our biggest goals.  
-
-
-
-
 
 ### One Team
 

@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Cover](README.md)
-* [About this book](test.md)
+* [About the STRATIM Playbooks](test.md)
 
 ## Playbook General
 
@@ -17,11 +17,16 @@
 * [New Article](volume-one/new-article.md)
   * [Article inside](volume-one/new-article/article-inside.md)
 
-## Engineering Playbook
+## STRATIM Culture Playbook
+
+* [Introduction to the STRATIM Culture Playbook](introduction-to-the-stratim-culture-playbook.md)
+* [Our values](our-values.md)
 
 ## Sales Playbook
 
-## Our values
+## Engineering Playbook
 
-* [Our values](our-values.md)
+## Product Playbook
+
+## STRATIM Essential Playbook
 
