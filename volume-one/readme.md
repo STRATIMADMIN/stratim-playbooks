@@ -15,7 +15,7 @@ Increase in utilization
 
 ## Our Mission {#our-mission}
 
-We exist to enable intelligent & innovative companies to build the future of mobility
+We exist to enable intelligent & innovative companies to build the future of mobility.
 
 We do this by building the underlying technology layer that will power everything that moves.
 
