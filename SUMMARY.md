@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Cover](README.md)
-* [About the STRATIM Playbooks](test.md)
+* [About these Playbooks](test.md)
 
 ## Playbook General
 
@@ -16,7 +16,7 @@
 
 ## STRATIM Culture Playbook
 
-* [Introduction to the STRATIM Culture Playbook](introduction-to-the-stratim-culture-playbook.md)
+* [Introduction](introduction-to-the-stratim-culture-playbook.md)
 * [Our values](our-values.md)
 
 ## Sales Playbook
