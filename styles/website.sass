@@ -201,7 +201,7 @@ body,
 .book-body
   background: #f8f8f8;
 
-.book-body.color-inverted
+body:not(.with-search) .book-body.color-inverted
   background: url('https://www.stratim.com/assets/images/hero-grid.svg') no-repeat center center, linear-gradient(14deg, $brand-blue, $brand-black);
   background-size: cover;
 
@@ -210,3 +210,7 @@ body,
 
   h1, h2, h3, h4, h5
     color: #fafafa;
+
+body.with-search .book-body
+  background-color: #f8f8f8 !important;
+  background-image: none !important;
