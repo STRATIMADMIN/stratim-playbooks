@@ -2,7 +2,7 @@
 
 # STRATIM Values
 
-### Move Fast; Think Big {#movefastthinkbig}
+### Move Fast; Think Big {#movefastthingbig}
 
 * **Dare mighty things.** We’re in the future business. Be bold, courageous and audacious. Dream big: nothing great ever came from playing it safe.
 * **Make it happen.** We do what we dream. Have a bias for action. Talk is cheap, execution is everything.
@@ -14,13 +14,13 @@
 * **Prioritize empathy.** See the world through the lens of others. Listen intently to gain understanding, then wow them with what they need, not just what they want.
 * **Take pride in the achievement of others.** We see the success of others as our own. When they win, so do we. Great people make everyone around them better.
 
-### Embrace Uncertainty
+### Embrace Uncertainty {#embraceuncertainty}
 
 * **Confront the unknown.** Uncertainty excites us —it’s where value is created. We face it head on and seize the opportunities it throws our way.
 * **Come with solutions.** It’s not enough to spot a gap or identify a problem. Come with ideas of how to fill it. For every problem there are hundreds of solutions. Pick one and bring it to the table. 
 * **Make complex things simple.** Uncertainty is often chaotic and complex. That’s where we’re in our element. We constantly push to make things simpler and more intuitive. The most elegant solution is often the simplest one. 
 
-### Never Settle
+### Never Settle {#neversettle}
 
 * **Push to grow.** We’re not content with being comfortable, instead we get restless. Personal growth and professional development are the bedrock of a winning team. When we grow individually, we grow as a team.
 * **Dig deeper, ask why.** Don’t accept a solution without understanding the problem. Question consensus, in the workplace and beyond. Break down a problem to its root cause then form an opinion and act with conviction. It’s good to challenge: do so with humility.

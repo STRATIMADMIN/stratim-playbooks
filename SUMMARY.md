@@ -18,9 +18,11 @@
 
 * [Introduction](introduction-to-the-stratim-culture-playbook.md)
 * [Our values](our-values.md)
-  * [Move Fast, Think Big](move-fast-think-big.md)
   * [Make Others Successfull](/our-values.md#makeotherssuccessful)
   * [One Team](/our-values.md#oneteam)
+  * [Embrace Uncertainty](/our-values.md#embraceuncertainty)
+  * [Never Settle](/our-values.md#neversettle)
+  * [Move Fast, Think Big](/our-values.md#movefasthinkbig)
 
 ## Sales Playbook
 
