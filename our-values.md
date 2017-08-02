@@ -2,7 +2,7 @@
 
 # STRATIM Values
 
-### Move Fast; Think Big {#movefastthingbig}
+### Move Fast; Think Big {#movefastthinkbig}
 
 * **Dare mighty things.** We’re in the future business. Be bold, courageous and audacious. Dream big: nothing great ever came from playing it safe.
 * **Make it happen.** We do what we dream. Have a bias for action. Talk is cheap, execution is everything.
