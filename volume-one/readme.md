@@ -5,7 +5,7 @@
 
 # STRATIM DNA
 
-### Who are we? {#whoarewe}
+## Who are we?
 
 We are a team of Pathfinders that thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and tremendous value in transforming complexity into something elegant, simple and intuitive. This belief governs everything that we do.
 
@@ -15,7 +15,7 @@ The transportation industry is incredibly inefficient and weighed down by outdat
 
 That’s where we come in!
 
-### Our Mission {#ourmission}
+## Our Mission
 
 #### We exist to enable businesses to build the future of mobility.
 
@@ -29,7 +29,7 @@ With the X industry in flux, everyone is placing their bets how the future will 
 
 \*_**Content TBC\***_
 
-### Our Vision - _\*CONTENT TBC\*_ {#ourvision}
+## Our Vision - _\*CONTENT TBC\*_
 
 We believe that whatever the future holds, there are some basic underlying core principles that will drive all this change and our job is to enable the industry to be ready:
 
@@ -48,7 +48,7 @@ Whatever usage based model wins we’re going to be there
 2. Fewer cars sold and they’re going to be used more
 3. From driving around to being driven around
 
-### Who are our customers? {#whoareourcustomers}
+## Who are our customers?
 
 Companies that **own fleets of vehicles** - We call them **Clients**.
 
@@ -95,4 +95,28 @@ A full software suite to maximize the performance & profitability of their fleet
 ##### Vendor
 
 A full suite of software tools maximize the performance & profitability of their workforce. Providing a simple way to scale their business without increasing operational complexity.
+
+STRATIM Marketplace
+
+Underpinning the STRATIM Platform is the STRATIM’s Marketplace, this is where clients and vendors can connect, transact and work with each other.
+
+Clients can do this in two ways: 
+
+They can plug in all their pre-existing vendors to increase efficiency and transparency of relationships.
+
+They can access a range of new vendors to fully optimize their fleets.
+
+Vendors can do this in two ways:
+
+They can plug in all their pre-existing clients.
+
+They can find and acquire new clients.
+
+Vendors can also connect and work with other vendors in the STRATIM Marketplace. They can do this to expand their service offerings to Clients. When Vendors work together on the STRATIM Platform we call these relationship Vendor Partners.
+
+Whenever clients and vendors connect through the Marketplace, STRATIM acts as the clearing house processing the payments between both of our customers. It also simplifies all the admin taking from contracts right through to invoicing. 
+
+Additional relationships create additional complexity
+
+
 
