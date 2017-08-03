@@ -12,7 +12,7 @@
   * [Our mission](/volume-one/readme.md#ourmission)
   * [You're part of this future](/volume-one/readme.md#yourepartofthisfuture)
   * [Our vision](/volume-one/readme.md#ourvision)
-  * [Who are our customers?](/volume-one/readme.md#who-are-our-customers)
+  * [Who are our customers?](/volume-one/readme.md#whoareourcustomers)
   * [How does STRATIM help them win?](/volume-one/readme.md#how-does-stratim-help-them-win)
   * [What do we have for our customers?](/volume-one/readme.md#whatdowehaveforourcustomers)
     * [STRATIM Platform](/volume-one/readme.md#stratimplatform)

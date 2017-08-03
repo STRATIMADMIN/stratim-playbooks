@@ -15,7 +15,7 @@ The transportation industry is incredibly inefficient and weighed down by outdat
 
 That’s where we come in!
 
-## Our Mission
+## Our Mission {#ourmission}
 
 #### We exist to enable businesses to build the future of mobility.
 
@@ -29,7 +29,7 @@ With the X industry in flux, everyone is placing their bets how the future will 
 
 \*_**Content TBC\***_
 
-## Our Vision - _\*CONTENT TBC\*_
+## Our Vision - _\*CONTENT TBC\*_ {#ourvision}
 
 We believe that whatever the future holds, there are some basic underlying core principles that will drive all this change and our job is to enable the industry to be ready:
 
@@ -48,7 +48,7 @@ Whatever usage based model wins we’re going to be there
 2. Fewer cars sold and they’re going to be used more
 3. From driving around to being driven around
 
-## Who are our customers?
+## Who are our customers? {#whoareourcustomers}
 
 Companies that **own fleets of vehicles** - We call them **Clients**.
 
@@ -145,8 +145,4 @@ Our transportation and parking services are the the first of many fleet services
 Our people
 
 Solve complexity for the people around them everyday. Here’s the values we live by:
-
-
-
-
 
