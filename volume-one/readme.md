@@ -1,6 +1,8 @@
 
 ---
 
+---
+
 # STRATIM DNA
 
 ### Who are we? {#whoarewe}
@@ -13,11 +15,11 @@ The transportation industry is incredibly inefficient and weighed down by outdat
 
 That’s where we come in!
 
-### Our Mission  {#ourmission}
+### Our Mission {#ourmission}
 
 #### We exist to enable businesses to build the future of mobility.
 
-We do this by providing the software and services that solve operational complexity for our customers, automating the back-end of their business and unchaining their resources to dedicate on growing their business, not running it. 
+We do this by providing the software and services that solve operational complexity for our customers, automating the back-end of their business and unchaining their resources to dedicate on growing their business, not running it.
 
 #### Our software and services are the underlying infrastructure that will power everything that moves.
 
@@ -34,8 +36,7 @@ We believe that whatever the future holds, there are some basic underlying core 
 1. From BUYING to USING vehicles
 2. Fewer cars will be sold and their going to be used more
 3. From DRIVING around to being DRIVEN around
-4. 
-Moving from ownership to usage. Usage is called ride sharing.
+4. Moving from ownership to usage. Usage is called ride sharing.
 
 There’s a change afoot. Cell phone bill… moving to usage. Huge flux, scaring people and we see opportunity in this change. With all this uncertainty we see a big opportunity.
 
@@ -59,15 +60,13 @@ Companies that **service fleets of vehicles **- We call them **Vendors**.
 
 We do not consider end-users our customers. We’ll enable businesses to serve their end-users, but we do not transact with them. Unless a Vendor’s end-user happens to be our Client.
 
-
-
-As a B2B business both our customers also have their own customers. They use STRATIM to provide a superior service to them. For clarity, we call our Clients and Vendors own customers end-users. End-users to not transact with STRATIM and will probably not even know we’re there, but they are however the benefitting from STRATIM existing. 
+As a B2B business both our customers also have their own customers. They use STRATIM to provide a superior service to them. For clarity, we call our Clients and Vendors own customers end-users. End-users to not transact with STRATIM and will probably not even know we’re there, but they are however the benefitting from STRATIM existing.
 
 _Note: Whenever an end-user is a business and not a consumer our goal is to turn those end-user businesses into new customers. _
 
 ### How does STRATIM help them win? {#helpthemwin}
 
-#### For Clients 
+#### For Clients
 
 * It maximizes the value / profitability of their _**fleet**_
 
@@ -75,7 +74,7 @@ _Note: Whenever an end-user is a business and not a consumer our goal is to turn
 
 * It maximizes the value / profitability of their _**workforce**_
 
-#### For both our customers 
+#### For both our customers
 
 * It drives down operational costs - freeing up resources for businesses to reinvest in their core business proposition.
 * It allows them to scale without an increasing complexity 
@@ -96,8 +95,4 @@ A full software suite to maximize the performance & profitability of their fleet
 ##### Vendor
 
 A full suite of software tools maximize the performance & profitability of their workforce. Providing a simple way to scale their business without increasing operational complexity.
-
-
-
-
 
