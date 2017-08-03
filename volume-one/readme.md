@@ -1,8 +1,3 @@
-
----
-
----
-
 # STRATIM DNA
 
 ## Who are we? {#whoarewe}
