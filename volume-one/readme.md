@@ -25,7 +25,7 @@ We do this by providing the software and services that solve operational complex
 
 With the X industry in flux, everyone is placing their bets how the future will turn out. Will it be ride sharing, car sharing, autonomous vehicles? No matter what future plays out we’ll be there. We’ll be powering the next generation of mobility companies from behind the scenes. We’ll play a pivotal role as a catalyst of this seismic shift in the way vehicles are used.
 
-### You’re part of this future {#yourepartofthisfuture}
+## You’re part of this future
 
 \*_**Content TBC\***_
 
@@ -42,7 +42,7 @@ There’s a change afoot. Cell phone bill… moving to usage. Huge flux, scaring
 
 Whatever usage based model wins we’re going to be there
 
-#### Facts of the future
+### Facts of the future
 
 1. Buying to using vehicles
 2. Fewer cars sold and they’re going to be used more
@@ -56,7 +56,7 @@ Companies that **service fleets of vehicles **- We call them **Vendors**.
 
 ![](https://lh6.googleusercontent.com/TjkOOC3kinVeqXtJtXLc4JcN3J9SyH5TInF8IzEmlLF1YuK9Zt4X4bAtIrWDT0QwXtFCBjl41rbnI5bfvN7UxtqLvywHfIkBdYgVj6JYD6s60KbC8fTHdqqn3J8lj_tJ-2gVLCYk)
 
-#### A note on who are customers are not:
+### A note on who are customers are not:
 
 We do not consider end-users our customers. We’ll enable businesses to serve their end-users, but we do not transact with them. Unless a Vendor’s end-user happens to be our Client.
 
@@ -64,59 +64,83 @@ As a B2B business both our customers also have their own customers. They use STR
 
 _Note: Whenever an end-user is a business and not a consumer our goal is to turn those end-user businesses into new customers. _
 
-### How does STRATIM help them win? {#helpthemwin}
+## How does STRATIM help them win?
 
-#### For Clients
+### For Clients
 
 * It maximizes the value / profitability of their _**fleet**_
 
-#### For Vendors
+### For Vendors
 
 * It maximizes the value / profitability of their _**workforce**_
 
-#### For both our customers
+### For both our customers
 
 * It drives down operational costs - freeing up resources for businesses to reinvest in their core business proposition.
 * It allows them to scale without an increasing complexity 
 * It allows them to achieve more with less resources.
 
-### What do we have for our customers? {#whatdowehaveforourcustomers}
+## What do we have for our customers?
 
 We have software, our own fleet services and a network of businesses to access at the tap of a button.
 
-#### STRATIM Platform
+### STRATIM Platform
 
 This is the software that powers our customers fleet operations. It’s split into two separate products for each customer type:
 
-##### Client
+#### Client
 
 A full software suite to maximize the performance & profitability of their fleets. Providing a simple way to scale their business without increasing operational complexity.
 
-##### Vendor
+#### Vendor
 
 A full suite of software tools maximize the performance & profitability of their workforce. Providing a simple way to scale their business without increasing operational complexity.
 
-STRATIM Marketplace
+### STRATIM Marketplace
 
-Underpinning the STRATIM Platform is the STRATIM’s Marketplace, this is where clients and vendors can connect, transact and work with each other.
+Underpinning the **STRATIM Platform** is the **STRATIM Marketplace**, this is where clients and vendors can connect, transact and work with each other.
 
-Clients can do this in two ways: 
+**Clients** can do this in two ways:
 
-They can plug in all their pre-existing vendors to increase efficiency and transparency of relationships.
+1. They can plug in all their pre-existing vendors to increase efficiency and transparency of relationships.
+2. They can access a range of new vendors to fully optimize their fleets.
 
-They can access a range of new vendors to fully optimize their fleets.
+**Vendors** can do this in two ways:
 
-Vendors can do this in two ways:
+1. They can plug in all their pre-existing clients.
+2. They can find and acquire new clients.
 
-They can plug in all their pre-existing clients.
+Vendors can also connect and work with other vendors in the **STRATIM Marketplace**. They can do this to expand their service offerings to Clients. When Vendors work together on the **STRATIM Platform** we call these relationships **Vendor Partners**.
 
-They can find and acquire new clients.
-
-Vendors can also connect and work with other vendors in the STRATIM Marketplace. They can do this to expand their service offerings to Clients. When Vendors work together on the STRATIM Platform we call these relationship Vendor Partners.
-
-Whenever clients and vendors connect through the Marketplace, STRATIM acts as the clearing house processing the payments between both of our customers. It also simplifies all the admin taking from contracts right through to invoicing. 
+Whenever clients and vendors connect through the Marketplace, STRATIM acts as the clearing house processing the payments between both of our customers. It also simplifies all the admin taking from contracts right through to invoicing.
 
 Additional relationships create additional complexity
+
+### STRATIM Essentials 
+
+Running within the **STRATIM Marketplace** are our very own premium vendor fleet services. We call these fleet services **STRATIM Essentials**. 
+
+#### Transportation Services
+
+This is our inaugural fleet service. The Essentials workforce, powered by the **STRATIM Workforce App**, transport vehicles from A to B on behalf of our customers.
+
+#### Parking Services
+
+We also provide vehicle storage to our customers in several locations around the country.
+
+#### Future Services
+
+Our transportation and parking services are the the first of many fleet services will we offer as the **STRATIM Essentials** brand expands and grows. We will build out a full suite of services to complement our software and to enable our customers run highly efficient fleets at scale.  
+
+#### Why Essentials?
+
+**STRATIM Essentials** are the first fully native fleet services in The **STRATIM Marketplace**. They have been built alongside the platform to rethink how modern fleets can run at optimum efficiency without being weighed down by legacy systems. Which means a modern on-demand workforce paid per job rather than per hour... \[insert more examples here\] 
+
+**STRATIM Essentials** plays an extremely important role in the business in three ways:
+
+1. **Premium **- It’s the best in the game - it goes above and beyond to delight our customers and through this it grows the business.
+2. **Enabler** - Our Essentials business is a key driver of growth at the company. **STRATIM Essentials **success is powered by the **STRATIM Platform **and in turn it’s success enables the company to build out more technology making the **STRATIM Platform** stronger. 
+3. **Flagbearer** - It’s the ultimate case study for Vendors - it is our most effective tool to convince third party Vendors to become customers of the **STRATIM Platform**.
 
 
 
