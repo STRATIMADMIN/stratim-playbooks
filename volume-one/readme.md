@@ -5,7 +5,7 @@
 
 # STRATIM DNA
 
-## Who are we?
+## Who are we? {#whoarewe}
 
 We are a team of Pathfinders that thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and tremendous value in transforming complexity into something elegant, simple and intuitive. This belief governs everything that we do.
 
