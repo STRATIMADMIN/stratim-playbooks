@@ -80,11 +80,11 @@ _Note: Whenever an end-user is a business and not a consumer our goal is to turn
 * It allows them to scale without an increasing complexity 
 * It allows them to achieve more with less resources.
 
-## What do we have for our customers?
+## What do we have for our customers? {#whatdowehaveforourcustomers}
 
 We have software, our own fleet services and a network of businesses to access at the tap of a button.
 
-### STRATIM Platform
+### STRATIM Platform {#stratimplatform}
 
 This is the software that powers our customers fleet operations. It’s split into two separate products for each customer type:
 
@@ -96,7 +96,7 @@ A full software suite to maximize the performance & profitability of their fleet
 
 A full suite of software tools maximize the performance & profitability of their workforce. Providing a simple way to scale their business without increasing operational complexity.
 
-### STRATIM Marketplace
+### STRATIM Marketplace {#stratimmarketplace}
 
 Underpinning the **STRATIM Platform** is the **STRATIM Marketplace**, this is where clients and vendors can connect, transact and work with each other.
 
@@ -116,9 +116,9 @@ Whenever clients and vendors connect through the Marketplace, STRATIM acts as th
 
 Additional relationships create additional complexity
 
-### STRATIM Essentials 
+### STRATIM Essentials {#stratimessentials}
 
-Running within the **STRATIM Marketplace** are our very own premium vendor fleet services. We call these fleet services **STRATIM Essentials**. 
+Running within the **STRATIM Marketplace** are our very own premium vendor fleet services. We call these fleet services **STRATIM Essentials**.
 
 #### Transportation Services
 
@@ -130,17 +130,23 @@ We also provide vehicle storage to our customers in several locations around the
 
 #### Future Services
 
-Our transportation and parking services are the the first of many fleet services will we offer as the **STRATIM Essentials** brand expands and grows. We will build out a full suite of services to complement our software and to enable our customers run highly efficient fleets at scale.  
+Our transportation and parking services are the the first of many fleet services will we offer as the **STRATIM Essentials** brand expands and grows. We will build out a full suite of services to complement our software and to enable our customers run highly efficient fleets at scale.
 
 #### Why Essentials?
 
-**STRATIM Essentials** are the first fully native fleet services in The **STRATIM Marketplace**. They have been built alongside the platform to rethink how modern fleets can run at optimum efficiency without being weighed down by legacy systems. Which means a modern on-demand workforce paid per job rather than per hour... \[insert more examples here\] 
+**STRATIM Essentials** are the first fully native fleet services in The **STRATIM Marketplace**. They have been built alongside the platform to rethink how modern fleets can run at optimum efficiency without being weighed down by legacy systems. Which means a modern on-demand workforce paid per job rather than per hour... \[insert more examples here\]
 
 **STRATIM Essentials** plays an extremely important role in the business in three ways:
 
 1. **Premium **- It’s the best in the game - it goes above and beyond to delight our customers and through this it grows the business.
 2. **Enabler** - Our Essentials business is a key driver of growth at the company. **STRATIM Essentials **success is powered by the **STRATIM Platform **and in turn it’s success enables the company to build out more technology making the **STRATIM Platform** stronger. 
 3. **Flagbearer** - It’s the ultimate case study for Vendors - it is our most effective tool to convince third party Vendors to become customers of the **STRATIM Platform**.
+
+Our people
+
+Solve complexity for the people around them everyday. Here’s the values we live by:
+
+
 
 
 

@@ -15,18 +15,23 @@
   * [Who are our customers?](/volume-one/readme.md#whoareourcustomers)
   * [How does STRATIM help them win?](/volume-one/readme.md#helpthemwin)
   * [What do we have for our customers?](/volume-one/readme.md#whatdowehaveforourcustomers)
+    * [STRATIM Platform](/volume-one/readme.md#stratimplatform)
+    * [STRATIM Marketplace](/volume-one/readme.md#stratimmarketplace)
+    * [STRATIM Essentials](/volume-one/readme.md#stratimessentials)
 
 ## STRATIM Culture Playbook
 
-* [Introduction](introduction-to-the-stratim-culture-playbook.md)
 * [Our values](our-values.md)
   * [Move Fast; Think Big](/our-values.md#movefastthinkbig)
   * [Make Others Successfull](/our-values.md#makeotherssuccessful)
   * [Embrace Uncertainty](/our-values.md#embraceuncertainty)
   * [Never Settle](/our-values.md#neversettle)
   * [One Team](/our-values.md#oneteam)
+* [How we work](how-we-work.md)
 
 ## Sales Playbook
+
+* [The Sales Playbook Introduction](sales-playbook/test.md)
 
 ## Engineering Playbook
 
