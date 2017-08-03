@@ -10,7 +10,7 @@ _Note: Our values our dynamic and evolve over time, they are shaped and governed
 
 * **Dare mighty things.** We’re in the future business. Be bold, courageous and audacious. Dream big: nothing great ever came from playing it safe.
 * **Make it happen.** We do what we dream. Have a bias for action. Talk is cheap, execution is everything.
-* Build long term value. Execute with intention, not impulsion. Balance acting urgently in the now, with a laser focus on the future. Our decisions maximize long term value, they don’t paper over the cracks.
+* **Build long term value.** Execute with intention, not impulsion. Balance acting urgently in the now, with a laser focus on the future. Our decisions maximize long term value, they don’t paper over the cracks.
 
 ### Make Others Successful {#makeotherssuccessful}
 
