@@ -22,7 +22,7 @@
   * [One Team](/our-values.md#oneteam)
   * [Embrace Uncertainty](/our-values.md#embraceuncertainty)
   * [Never Settle](/our-values.md#neversettle)
-  * [Move Fast, Think Big](/our-values.md#movefasthinkbig)
+  * [Move Fast; Think Big](/our-values.md#movefastthinkbig)
 
 ## Sales Playbook
 
