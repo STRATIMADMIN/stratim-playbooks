@@ -7,22 +7,24 @@
 
 ## Playbook General
 
-* [Who we are](/volume-one/readme.md)
-  * [Chapter 1](/volume-one/readme.md#our-mission)
-  * [Chapter 2](/volume-one/chapter-two.md)
-* [What we do](volume-one/test.md)
-  * [Test Chapter](volume-one/test/test-chapter.md)
-    * Test
+* [STRATIM DNA](/volume-one/readme.md)
+  * [Who are we?](/volume-one/readme.md#whoarewe)
+  * [Our mission](/volume-one/readme.md#ourmission)
+  * [You're part of this future](/volume-one/readme.md#yourepartofthisfuture)
+  * [Our vision](/volume-one/readme.md#ourvision)
+  * [Who are our customers?](/volume-one/readme.md#whoareourcustomers)
+  * [How does STRATIM help them win?](/volume-one/readme.md#helpthemwin)
+  * [What do we have for our customers?](/volume-one/readme.md#whatdowehaveforourcustomers)
 
 ## STRATIM Culture Playbook
 
 * [Introduction](introduction-to-the-stratim-culture-playbook.md)
 * [Our values](our-values.md)
+  * [Move Fast; Think Big](/our-values.md#movefastthinkbig)
   * [Make Others Successfull](/our-values.md#makeotherssuccessful)
-  * [One Team](/our-values.md#oneteam)
   * [Embrace Uncertainty](/our-values.md#embraceuncertainty)
   * [Never Settle](/our-values.md#neversettle)
-  * [Move Fast; Think Big](/our-values.md#movefastthinkbig)
+  * [One Team](/our-values.md#oneteam)
 
 ## Sales Playbook
 

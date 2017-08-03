@@ -1,135 +1,103 @@
 
 ---
 
-## Who are we?
+# STRATIM DNA
 
-Where others see mess, we see value. We are drawn to complexity. We are guides to the future.
+### Who are we? {#whoarewe}
 
-We’re starting with the transportation industry.
+We are a team of Pathfinders that thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and tremendous value in transforming complexity into something elegant, simple and intuitive. This belief governs everything that we do.
 
-## Our Vision
+Today we’re solving complexity in the transportation industry.
 
-The future of… mobility/transportation.
+The transportation industry is incredibly inefficient and weighed down by outdated operational processes - this costs businesses a huge amount of time and money. The industry is also on the cusp of a major transformation. Market forces and technological advances are redefining how vehicles are owned and used. Businesses are all fighting to remain relevant in a hyper competitive market, largely driven by consumers not CEOs. \(as they do this operational complexity increases and gets in the way of growth\) Those that win will solve the operational complexity and focus their time on creating value for their customers. Not running the backend of their business.
 
-Increase in utilization
+That’s where we come in!
 
-## Our Mission {#our-mission}
+### Our Mission  {#ourmission}
 
-We exist to enable intelligent & innovative companies to build the future of mobility.
+#### We exist to enable businesses to build the future of mobility.
 
-We do this by building the underlying technology layer that will power everything that moves.
+We do this by providing the software and services that solve operational complexity for our customers, automating the back-end of their business and unchaining their resources to dedicate on growing their business, not running it. 
 
-It will solve operational complexity for our customers and give them the tools they need to generate value in the world.
+#### Our software and services are the underlying infrastructure that will power everything that moves.
 
-## How do we win?
+With the X industry in flux, everyone is placing their bets how the future will turn out. Will it be ride sharing, car sharing, autonomous vehicles? No matter what future plays out we’ll be there. We’ll be powering the next generation of mobility companies from behind the scenes. We’ll play a pivotal role as a catalyst of this seismic shift in the way vehicles are used.
 
-We win when our customers win.
+### You’re part of this future {#yourepartofthisfuture}
 
-## Who are our customers?
+\*_**Content TBC\***_
 
-Companies that own fleets of vehicles - We call them Clients.
+### Our Vision - _\*CONTENT TBC\*_ {#ourvision}
 
-Companies that service fleets of vehicles - We call them Vendors.
+We believe that whatever the future holds, there are some basic underlying core principles that will drive all this change and our job is to enable the industry to be ready:
 
-A note on who are customers are not:
+1. From BUYING to USING vehicles
+2. Fewer cars will be sold and their going to be used more
+3. From DRIVING around to being DRIVEN around
+4. 
+Moving from ownership to usage. Usage is called ride sharing.
+
+There’s a change afoot. Cell phone bill… moving to usage. Huge flux, scaring people and we see opportunity in this change. With all this uncertainty we see a big opportunity.
+
+Whatever usage based model wins we’re going to be there
+
+#### Facts of the future
+
+1. Buying to using vehicles
+2. Fewer cars sold and they’re going to be used more
+3. From driving around to being driven around
+
+### Who are our customers? {#whoareourcustomers}
+
+Companies that **own fleets of vehicles** - We call them **Clients**.
+
+Companies that **service fleets of vehicles **- We call them **Vendors**.
+
+![](https://lh6.googleusercontent.com/TjkOOC3kinVeqXtJtXLc4JcN3J9SyH5TInF8IzEmlLF1YuK9Zt4X4bAtIrWDT0QwXtFCBjl41rbnI5bfvN7UxtqLvywHfIkBdYgVj6JYD6s60KbC8fTHdqqn3J8lj_tJ-2gVLCYk)
+
+#### A note on who are customers are not:
 
 We do not consider end-users our customers. We’ll enable businesses to serve their end-users, but we do not transact with them. Unless a Vendor’s end-user happens to be our Client.
 
-## How does STRATIM help them win?
 
-Using STRATIM helps business to win in two specific ways
 
-It drives down operational costs - freeing up resources for businesses to reinvest in their core business proposition.
+As a B2B business both our customers also have their own customers. They use STRATIM to provide a superior service to them. For clarity, we call our Clients and Vendors own customers end-users. End-users to not transact with STRATIM and will probably not even know we’re there, but they are however the benefitting from STRATIM existing. 
 
-It allows them to scale without complexity - It provides the infrastructure to create new offerings for their end-users… tbc
+_Note: Whenever an end-user is a business and not a consumer our goal is to turn those end-user businesses into new customers. _
 
-## What do we have for them?
+### How does STRATIM help them win? {#helpthemwin}
 
-We have software, our own fleet services and a network of businesses to access at the tap of a button
+#### For Clients 
 
-STRATIM Platform
+* It maximizes the value / profitability of their _**fleet**_
+
+#### For Vendors
+
+* It maximizes the value / profitability of their _**workforce**_
+
+#### For both our customers 
+
+* It drives down operational costs - freeing up resources for businesses to reinvest in their core business proposition.
+* It allows them to scale without an increasing complexity 
+* It allows them to achieve more with less resources.
+
+### What do we have for our customers? {#whatdowehaveforourcustomers}
+
+We have software, our own fleet services and a network of businesses to access at the tap of a button.
+
+#### STRATIM Platform
 
 This is the software that powers our customers fleet operations. It’s split into two separate products for each customer type:
 
-Client Portal
+##### Client
 
-Vendor Portal
+A full software suite to maximize the performance & profitability of their fleets. Providing a simple way to scale their business without increasing operational complexity.
 
-What
+##### Vendor
 
-A full suite of software tools to maximize the performance of their fleets and scale their business without increasing operational complexity
+A full suite of software tools maximize the performance & profitability of their workforce. Providing a simple way to scale their business without increasing operational complexity.
 
-A full suite of software tools to optimize the servicing of client fleets and scale their business without increasing operational complexity
 
-How
 
-Manage Business
 
-Manage Vehicles
-
-Manage Orders
-
-Manage Vendors
-
-Optimize Fleet
-
-Manage Business
-
-Manage Clients
-
-Manage Orders
-
-Manage Workforce
-
-Optimize Business
-
-Deep dive: How does the STRATIM Platform work?
-
-Centralizes
-
-STRATIM connects all customer operations in a central hub \(the portal\) they control.
-
-Automates
-
-STRATIM eliminates repetitive tasks and simplifies complex operational tasks, unchaining the business from human error and outdated processes.
-
-Distributes
-
-STRATIM sends tasks out to their workforce optimizing fleet routes for maximum efficiency.
-
-Optimizes
-
-STRATIM analyzes the data it receives from your connected operations, and uses it to deliver smart recommendations that uncover inefficiencies and unlock insights.
-
-STRATIM Marketplace
-
-Underpinning the software is STRATIM’s Marketplace, this where the clients and vendors can connect and work with each other directly through the platform.
-
-Clients can find vendors to expand their fleet offerings or optimize their existing services.
-
-Vendors can find and acquire new clients directly through the Vendor Portal. They can also connect with other vendors to expand their offerings to Clients.
-
-Both customers take advantage of the STRATIM Marketplace to grow their business, drive down costs and create new services that delight their end-users.
-
-When a client and a vendor connect through the Marketplace, STRATIM acts as the clearing house processing the payments between both of our customers. It also takes care of all the admin from contracts to invoicing.
-
-STRATIM Essentials
-
-Running alongside our software and marketplace, we also have our very own premium vendor fleet services. We call these fleet services STRATIM Essentials.
-
-Our inaugural fleet service is transportation. The Essentials workforce transport vehicles from A to B on behalf of our customers, using the STRATIM Workforce App.
-
-This is the first of many fleet services we hope to offer as STRATIM Essentials as we stretch for our goal of powering everything that moves.
-
-STRATIM Essentials plays and extremely important role in the business in three ways:
-
-Premium - It’s the best in the game - it goes above and beyond to delight our customers and through this it grows the business.
-
-Money maker - It generates the majority of our current revenue, it’s efforts support the technology that’s being built in the business.
-
-Flagbearer - It’s the ultimate case study for Vendors - it is our most effective tool to convince third party Vendors to become customers of the STRATIM Platform.
-
-Our people
-
-Solve complexity for the people around them everyday.
 
