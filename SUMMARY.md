@@ -7,17 +7,17 @@
 
 ## Playbook General
 
-* [STRATIM DNA](/volume-one/readme.md)
-  * [Who are we?](/volume-one/readme.md#whoarewe)
-  * [Our mission](/volume-one/readme.md#ourmission)
-  * [You're part of this future](/volume-one/readme.md#yourepartofthisfuture)
-  * [Our vision](/volume-one/readme.md#ourvision)
-  * [Who are our customers?](/volume-one/readme.md#whoareourcustomers)
-  * [How does STRATIM help them win?](/volume-one/readme.md#how-does-stratim-help-them-win)
-  * [What do we have for our customers?](/volume-one/readme.md#whatdowehaveforourcustomers)
-    * [STRATIM Platform](/volume-one/readme.md#stratimplatform)
-    * [STRATIM Marketplace](/volume-one/readme.md#stratimmarketplace)
-    * [STRATIM Essentials](/volume-one/readme.md#stratimessentials)
+* [STRATIM DNA](/playbook-general/readme.md)
+  * [Who are we?](/playbook-general/readme.md#whoarewe)
+  * [Our mission](/playbook-general/readme.md#ourmission)
+  * [You're part of this future](/playbook-general/readme.md#yourepartofthisfuture)
+  * [Our vision](/playbook-general/readme.md#ourvision)
+  * [Who are our customers?](/playbook-general/readme.md#whoareourcustomers)
+  * [How does STRATIM help them win?](/playbook-general/readme.md#how-does-stratim-help-them-win)
+  * [What do we have for our customers?](/playbook-general/readme.md#whatdowehaveforourcustomers)
+    * [STRATIM Platform](/playbook-general/readme.md#stratimplatform)
+    * [STRATIM Marketplace](/playbook-general/readme.md#stratimmarketplace)
+    * [STRATIM Essentials](/playbook-general/readme.md#stratimessentials)
 
 ## STRATIM Culture Playbook
 
