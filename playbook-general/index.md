@@ -161,5 +161,5 @@ Our transportation and parking services are the the first of many fleet services
 
 Our people
 
-Solve complexity for the people around them everyday. Here’s the values we live by:
+Solve complexity for the people around them everyday. [Here’s the values we live by](/playbook-culture/introduction.md):
 
