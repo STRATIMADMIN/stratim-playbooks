@@ -1,9 +1,5 @@
 # STRATIM DNA
 
-![](/assets/facebook-og.jpg)
-
-##  {#whoarewe}
-
 ## Who are we? {#whoarewe}
 
 We are a team of pioneers that thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and tremendous value in transforming complexity into something elegant, simple and intuitive. This belief governs everything that we do.
@@ -161,5 +157,4 @@ Our transportation and parking services are the the first of many fleet services
 
 Our people
 
-Solve complexity for the people around them everyday. [Here’s the values we live by](/playbook-culture/introduction.md):
-
+Solve complexity for the people around them everyday. [Here’s the values we live by](/playbook-culture/):

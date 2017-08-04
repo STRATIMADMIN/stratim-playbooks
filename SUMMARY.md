@@ -7,6 +7,7 @@
 
 ## Playbook General
 
+* [Introduction](playbook-general/README.md)
 * [Index](playbook-general/index.md)
   * [Who are we?](playbook-general/index.md#whoarewe)
   * [Our mission](playbook-general/index.md#ourmission)
@@ -21,7 +22,7 @@
 
 ## Culture Playbook
 
-* [Introduction](playbook-culture/introduction.md)
+* [Introduction](playbook-culture/README.md)
 * [Our values](playbook-culture//our-values.md)
   * [Move Fast; Think Big](playbook-culture//our-values.md#movefastthinkbig)
   * [Make Others Successfull](playbook-culture//our-values.md#makeotherssuccessful)
@@ -32,17 +33,16 @@
 
 ## Sales Playbook
 
-* [Introduction](playbook-sales/introduction.md)
+* [Introduction](playbook-sales/README.md)
 
 ## Engineering Playbook
 
-* [Introduction](playbook-engineering/introduction.md)
+* [Introduction](playbook-engineering/README.md)
 
 ## Product Playbook
 
-* [Introduction](playbook-product/introduction.md)
+* [Introduction](playbook-product/README.md)
 
 ## Essentials Playbook
 
-* [Introduction](playbook-essentials/introduction.md)
-
+* [Introduction](playbook-essentials/README.md)
