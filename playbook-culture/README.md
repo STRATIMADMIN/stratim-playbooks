@@ -2,7 +2,3 @@ This is a dynamic living breathing document for value development. We fully expe
 
 This is a space to identify how the company can live each value.
 
-
-
-
-

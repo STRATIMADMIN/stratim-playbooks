@@ -19,8 +19,9 @@
     * [STRATIM Marketplace](/playbook-general/readme.md#stratimmarketplace)
     * [STRATIM Essentials](/playbook-general/readme.md#stratimessentials)
 
-## STRATIM Culture Playbook
+## Culture Playbook
 
+* [Introduction](playbook-culture/README.md)
 * [Our values](our-values.md)
   * [Move Fast; Think Big](/our-values.md#movefastthinkbig)
   * [Make Others Successfull](/our-values.md#makeotherssuccessful)
@@ -31,7 +32,7 @@
 
 ## Sales Playbook
 
-* [The Sales Playbook Introduction](sales-playbook/test.md)
+* [Introduction](playbook-sales/readme.md)
 
 ## Engineering Playbook
 
