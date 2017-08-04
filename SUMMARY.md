@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Cover](cover.md)
+* [Cover](README.md)
 * [About these Playbooks](about.md)
 
 ## Playbook General
