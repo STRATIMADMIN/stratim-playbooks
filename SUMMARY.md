@@ -40,7 +40,7 @@
 
 ## Product Playbook
 
-* [Introduction](playbook-product/readme.md)
+* [Introduction](playbook-product/introduction.md)
 
 ## Essentials Playbook
 
