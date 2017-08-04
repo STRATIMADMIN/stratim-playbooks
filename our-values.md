@@ -4,7 +4,7 @@ Our people solve complexity for the people around them everyday. Here’s the va
 
 _Note: Our values our dynamic and evolve over time, they are shaped and governed by the team. We love hearing ways that we can live our values and also ways they can be improved._
 
-![](/assets/Values Posters - all in a row.jpeg)
+&lt;img src=“/assets/valuesposter.jpeg” width=“600" /&gt;
 
 ### Move Fast; Think Big {#movefastthinkbig}
 
