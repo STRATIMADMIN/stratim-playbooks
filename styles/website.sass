@@ -1,29 +1,26 @@
+// Typography
+// =======================================
+
 $body-font-size: 1.2em;
 $ui-font-size: 1.4rem;
 
-$brand-black: #191b2a;
-$brand-blue: #2c2a3e;
+
+// Colours
+// =======================================
 
 // UI colours
 
+$brand-black: #191b2a;
+// $brand-blue: #2c2a3e;
 $cta-blue: #82dcff;
 
-// COLOURS
-// =======================================
-
-// $brand-black: #1f242c;
 $brand-white: #eef3fa;
 $brand-grey: #7e909c;
 $brand-warm: #ebe2e5;
-$brand-highlight: $cta-blue;
 
 $headline-black: #3d4453;
 $headline-grey: #939ca2;
 
-$brand-background-light: #fbfcfc;
-
-$brand-gradient-start: $brand-background-light;
-$brand-gradient-end: #8a9ba6;
 
 // Solutions Colours
 
@@ -40,8 +37,9 @@ $control-end: #552265;
 
 
 // Hacks
+// =======================================
 
-// Hiding unneeded UI elements from the page through CSS, but ideally need to figure out how to do it cleanly with templating language
+// Hiding unneeded UI elements from the page through CSS. Ideally need to figure out how to do it cleanly with templating language, but it's not necessary for the MVP launch
 .font-settings
   display: none;
 
@@ -49,8 +47,10 @@ $control-end: #552265;
   display: none;
 
 
-// Legit style
+// Legit styles
+// =======================================
 
+// Body/basic
 body,
 .book,
 .book-summary,
@@ -58,10 +58,12 @@ body,
   font-size: 14px;
   font-family: 'neuzeit-grotesk', 'proxima nova', 'proxima-nova', verdana, sans-serif;
 
+// Sidebar
 .book-summary
   color: #fafafa;
   background: $brand-black;
 
+  // Custom scrollbard style
   &::-webkit-scrollbar-track
     background-color: $brand-black;
 
@@ -74,15 +76,12 @@ body,
     background-color: rgba($brand-white, 0.35);
     border-radius: 5px;
 
+  // Search form
   #book-search-input
     position: relative;
     overflow: auto;
     margin: 1.25rem 0;
     color: #fff;
-    // background-image: linear-gradient(14deg, darken($brand-blue, 2%), $brand-black);
-    // border: 1px solid lighten($brand-blue, 6%);
-    // border-width: 1px 0;
-    // border-top: 1px solid rgba($brand-white, 0.1);
 
     background: none;
     margin: 0 10px 1.25rem;
@@ -127,7 +126,7 @@ body,
       + .fa-search
         opacity: 1;
 
-
+  // Menu
   ul.summary
     margin-top: 2rem;
 
@@ -138,7 +137,6 @@ body,
 
       img
         margin-right: 0.5rem;
-        // transform: translateY(-1px);
 
       h2
         color: rgba($brand-white, 0.5);
@@ -204,7 +202,9 @@ body,
       border-right: 4px solid $brand-highlight;
 
 
-// Typography
+// Main content section typography
+// =======================================
+
 .book.font-size-2 .book-body .page-inner section
   max-width: 600px;
   margin: 0 auto;
@@ -247,12 +247,13 @@ body,
     color: $headline-grey;
 
 
-// Custom book body modifications
+// Custom body modifications
+// =======================================
+
 .book-body
   background: #f8f8f8;
 
 body:not(.with-search) .book-body.color-inverted
-  // background: url('https://www.stratim.com/assets/images/hero-grid.svg') no-repeat center center, linear-gradient(14deg, $brand-blue, $brand-black);
   background: url('/images/cover.svg') no-repeat center center, linear-gradient(14deg, $brand-blue, $brand-black);
   background-size: cover;
 
@@ -268,5 +269,6 @@ body.with-search .book-body
 
 
 // Hard-coding Values poster image size
+// =======================================
 .book-body.values .markdown-section img
   max-width: 300px;
