@@ -11,7 +11,7 @@ $ui-font-size: 1.4rem;
 // UI colours
 
 $brand-black: #191b2a;
-// $brand-blue: #2c2a3e;
+$brand-blue: #2c2a3e;
 $cta-blue: #82dcff;
 
 $brand-white: #eef3fa;
@@ -155,7 +155,7 @@ body,
           transition: all 0.12s linear;
 
     li.divider
-      background-image: linear-gradient(14deg, lighten($brand-blue, 5%), $brand-black);
+      background-image: linear-gradient(14deg, lighten($brand-black, 8%), $brand-black);
 
     li a,
     li span
@@ -197,9 +197,9 @@ body,
     li.active > a,
     li.active > a:hover,
     li.active > a:focus
-      color: $brand-highlight;
+      color: $cta-blue;
       // cursor: default;
-      border-right: 4px solid $brand-highlight;
+      border-right: 4px solid $cta-blue;
 
 
 // Main content section typography
