@@ -7,7 +7,7 @@
 
 ## Playbook General
 
-* [STRATIM DNA](playbook-general/index.md)
+* [Index](playbook-general/index.md)
   * [Who are we?](playbook-general/index.md#whoarewe)
   * [Our mission](playbook-general/index.md#ourmission)
   * [You're part of this future](playbook-general/index.md#yourepartofthisfuture)
@@ -45,3 +45,4 @@
 ## Essentials Playbook
 
 * [Introduction](playbook-essentials/introduction.md)
+
