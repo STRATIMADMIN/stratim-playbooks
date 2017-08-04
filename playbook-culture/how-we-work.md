@@ -8,7 +8,7 @@ Roles and responsibilities: On Mission, enablers, vision, road map, money, inves
 
 ## Sales Team
 
-See the [Sales Playbook](/sales-playbook/test.md)
+See the [Sales Playbook](/playbook-sales/introduction.md)
 
 ## Product Team
 
@@ -33,4 +33,3 @@ See the Platform Playbook
 Roles and responsibilities of team:
 
 See STRATIM Essentials Playbook
-
