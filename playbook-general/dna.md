@@ -1,5 +1,7 @@
 # STRATIM DNA
 
+---
+
 ## Who are we? {#whoarewe}
 
 We are a team of pioneers that thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and tremendous value in transforming complexity into something elegant, simple and intuitive. This belief governs everything that we do.
@@ -14,11 +16,11 @@ That’s where we come in!
 
 ## Our Mission {#ourmission}
 
-#### We exist to enable businesses to build the future of mobility.
+### We exist to enable businesses to build the future of mobility.
 
 We do this by providing the software and services that solve operational complexity for our customers, automating the back-end of their business and unchaining their resources to dedicate on growing their business, not running it.
 
-#### Our software and services are the underlying infrastructure that will power everything that moves.
+### Our software and services are the underlying infrastructure that will power everything that moves.
 
 With the X industry in flux, everyone is placing their bets how the future will turn out. Will it be ride sharing, car sharing, autonomous vehicles? No matter what future plays out we’ll be there. We’ll be powering the next generation of mobility companies from behind the scenes. We’ll play a pivotal role as a catalyst of this seismic shift in the way vehicles are used.
 
@@ -26,11 +28,11 @@ With the X industry in flux, everyone is placing their bets how the future will 
 
 ## You’re part of this future {#yourepartofthisfuture}
 
-\*_**Content TBC\***_
+_Content TBC_
 
 ---
 
-## Our Vision - _\*CONTENT TBC\*_ {#ourvision}
+## Our Vision - _CONTENT TBC_ {#ourvision}
 
 We believe that whatever the future holds, there are some basic underlying core principles that will drive all this change and our job is to enable the industry to be ready:
 
@@ -43,19 +45,13 @@ There’s a change afoot. Cell phone bill… moving to usage. Huge flux, scaring
 
 Whatever usage based model wins we’re going to be there
 
-### Facts of the future
-
-1. Buying to using vehicles
-2. Fewer cars sold and they’re going to be used more
-3. From driving around to being driven around
-
 ---
 
 ## Who are our customers? {#whoareourcustomers}
 
-Companies that **own fleets of vehicles** - We call them **Clients**.
+Companies that **own fleets of vehicles** -- We call them **Clients**.
 
-Companies that **service fleets of vehicles **- We call them **Vendors**.
+Companies that **service fleets of vehicles** -- We call them **Vendors**.
 
 ![](https://lh6.googleusercontent.com/TjkOOC3kinVeqXtJtXLc4JcN3J9SyH5TInF8IzEmlLF1YuK9Zt4X4bAtIrWDT0QwXtFCBjl41rbnI5bfvN7UxtqLvywHfIkBdYgVj6JYD6s60KbC8fTHdqqn3J8lj_tJ-2gVLCYk)
 
@@ -65,7 +61,7 @@ We do not consider end-users our customers. We’ll enable businesses to serve t
 
 As a B2B business both our customers also have their own customers. They use STRATIM to provide a superior service to them. For clarity, we call our Clients and Vendors own customers end-users. End-users to not transact with STRATIM and will probably not even know we’re there, but they are however the benefitting from STRATIM existing.
 
-_Note: Whenever an end-user is a business and not a consumer our goal is to turn those end-user businesses into new customers. _
+_Note: Whenever an end-user is a business and not a consumer our goal is to turn those end-user businesses into new customers._
 
 ---
 
@@ -73,11 +69,11 @@ _Note: Whenever an end-user is a business and not a consumer our goal is to turn
 
 ### For Clients
 
-* It maximizes the value / profitability of their _**fleet**_
+* It maximizes the value / profitability of their **fleet**
 
 ### For Vendors
 
-* It maximizes the value / profitability of their _**workforce**_
+* It maximizes the value / profitability of their **workforce**
 
 ### For both our customers
 
@@ -151,10 +147,12 @@ Our transportation and parking services are the the first of many fleet services
 
 **STRATIM Essentials** plays an extremely important role in the business in three ways:
 
-1. **Premium **- It’s the best in the game - it goes above and beyond to delight our customers and through this it grows the business.
-2. **Enabler** - Our Essentials business is a key driver of growth at the company. **STRATIM Essentials **success is powered by the **STRATIM Platform **and in turn it’s success enables the company to build out more technology making the **STRATIM Platform** stronger.
-3. **Flagbearer** - It’s the ultimate case study for Vendors - it is our most effective tool to convince third party Vendors to become customers of the **STRATIM Platform**.
+1. **Premium** -- It’s the best in the game -- it goes above and beyond to delight our customers and through this it grows the business.
+2. **Enabler** -- Our Essentials business is a key driver of growth at the company. **STRATIM Essentials **success is powered by the **STRATIM Platform **and in turn it’s success enables the company to build out more technology making the **STRATIM Platform** stronger.
+3. **Flagbearer** -- It’s the ultimate case study for Vendors -- it is our most effective tool to convince third party Vendors to become customers of the **STRATIM Platform**.
 
-Our people
+---
+
+## Our people
 
 Solve complexity for the people around them everyday. [Here’s the values we live by](/playbook-culture/):
