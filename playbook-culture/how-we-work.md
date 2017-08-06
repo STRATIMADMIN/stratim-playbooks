@@ -28,12 +28,6 @@ See [Engineering Playbook](/playbook-engineering/README.md)
 
 ---
 
-## Platform Team
-
-See [Platform Playbook](/playbook-platform/README.md)
-
----
-
 ## Essentials Team
 
 See [Essentials Playbook](/playbook-essentials/README.md)
