@@ -1,6 +1,6 @@
 # Summary
 
-## Introduction
+## Foreword
 
 * [Cover](README.md)
 * [About these Playbooks](about.md)
@@ -46,3 +46,4 @@
 ## Essentials Playbook
 
 * [Introduction](playbook-essentials/README.md)
+
