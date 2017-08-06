@@ -22,14 +22,9 @@ Roles and responsibilities of team:
 
 See [Engineering Playbook](/playbook-engineering/README.md)
 
-## Platform Team
-
-Roles and responsibilities of team:
-
-See [Platform Playbook](/playbook-platform/README.md)
-
 ## Essentials Team
 
 Roles and responsibilities of team:
 
 See [Essentials Playbook](/playbook-essentials/README.md)
+
