@@ -18,7 +18,7 @@
     "user-home": "2.0.0"
   },
   "devDependencies": {
-    "gitbook": "3.2.3",
+    "gitbook": "3.2.2",
     "mocha": "3.4.2",
     "should": "11.2.1"
   },
