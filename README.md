@@ -2,7 +2,7 @@
 bodyClass: color-inverted
 ---
 
-# \[TODO\] Book Cover
+# Welcome to the STRATIM Playbooks
 
-\[TODO\] Reserving this page for a cool visual intro, it's a unique template with tricky backend.
+The STRATIM Playbooks act as an mainstay for our core beliefs which determine our strategy and the way that we work.
 
