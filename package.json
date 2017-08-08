@@ -18,9 +18,9 @@
     "user-home": "2.0.0"
   },
   "devDependencies": {
+    "gitbook": "2.5.0-beta.1",
     "mocha": "3.4.2",
-    "should": "11.2.1",
-    "gitbook": "2.5.0-beta.1"
+    "should": "11.2.1"
   },
   "scripts": {
     "test": "mocha --reporter spec --recursive --bail"
@@ -29,10 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/GitbookIO/gitbook-cli.git"
   },
-  "author": {
-    "name": "FriendCode Inc.",
-    "email": "contact@gitbook.com"
-  },
+  "author": "FriendCode Inc. <contact@gitbook.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/GitbookIO/gitbook-cli/issues"
@@ -41,17 +38,9 @@
     "gitbook": "./bin/gitbook.js"
   },
   "contributors": [
-    {
-      "name": "Aaron O'Mullan",
-      "email": "aaron@gitbook.com"
-    },
-    {
-      "name": "Samy Pessé",
-      "email": "samy@gitbook.com"
-    }
+    "Aaron O'Mullan <aaron@gitbook.com>",
+    "Samy Pessé <samy@gitbook.com>"
   ],
-  "gitHead": "aa9b1f85bca75c0db65b85bedce18ced957acae6",
-  "_id": "gitbook-cli@2.3.2",
   "_npmVersion": "5.0.3",
   "_nodeVersion": "7.4.0",
   "_npmUser": {
@@ -64,30 +53,12 @@
     "tarball": "https://registry.npmjs.org/gitbook-cli/-/gitbook-cli-2.3.2.tgz"
   },
   "maintainers": [
-    {
-      "name": "jpreynat",
-      "email": "johan.preynat@gmail.com"
-    },
-    {
-      "name": "samypesse",
-      "email": "samypesse@gmail.com"
-    },
-    {
-      "name": "zhouzi",
-      "email": "hello@gabinaureche.com"
-    },
-    {
-      "name": "soreine",
-      "email": "soreine.plume@gmail.com"
-    },
-    {
-      "name": "aarono",
-      "email": "aaron.omullan@gmail.com"
-    },
-    {
-      "name": "gitbook-bot",
-      "email": "contact@gitbook.com"
-    }
+    "jpreynat <johan.preynat@gmail.com>",
+    "samypesse <samypesse@gmail.com>",
+    "zhouzi <hello@gabinaureche.com>",
+    "soreine <soreine.plume@gmail.com>",
+    "aarono <aaron.omullan@gmail.com>",
+    "gitbook-bot <contact@gitbook.com>"
   ],
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
@@ -96,6 +67,5 @@
   "directories": {},
   "_shasum": "5e893582e1f743f6fa920c3c3eb36b62ea4a31a0",
   "_resolved": "https://registry.npmjs.org/gitbook-cli/-/gitbook-cli-2.3.2.tgz",
-  "_from": "gitbook-cli@latest",
-  "readme": "ERROR: No README data found!"
+  "_from": "gitbook-cli@latest"
 }
