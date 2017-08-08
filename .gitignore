@@ -1,3 +1,15 @@
+# Node rules:
+## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+## Dependency directory
+## Deployed apps should consider commenting this line out, see
+## https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules
+
+# Build directory
+/_book
+
 # Logs
 logs
 *.log
@@ -7,10 +19,7 @@ pids
 *.pid
 *.seed
 
-# Dependency directory
-# Deployed apps should consider commenting this line out:
-# see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
-node_modules
-
-# Build directory
-/_book
+# eBook build output
+*.epub
+*.mobi
+*.pdf
