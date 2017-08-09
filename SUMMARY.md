@@ -31,10 +31,6 @@
   * [One Team](playbook-culture//our-values.md#oneteam)
 * [How we work](playbook-culture/how-we-work.md)
 
-## Platform Playbook
-
-* [Introduction](playbook-sales/README.md)
-
 ## Engineering Playbook
 
 * [Introduction](playbook-engineering/README.md)
@@ -42,6 +38,10 @@
 ## Product Playbook
 
 * [Introduction](playbook-product/README.md)
+
+## Platform Playbook
+
+* [Introduction](playbook-sales/README.md)
 
 ## Essentials Playbook
 
