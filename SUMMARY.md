@@ -3,7 +3,7 @@
 ## Foreword
 
 * [Cover](README.md)
-* [About these Playbooks](about.md)
+* [Playbook's Purpose](about.md)
 
 ## Playbook General
 
