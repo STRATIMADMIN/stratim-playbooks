@@ -14,7 +14,7 @@ Today we’re solving complexity in the transportation industry.
 
 ### A New Era Of Mobility Is Approaching
 
-The transportation industry is undergoing a major transformation. Market forces and technological advances are redefining how vehicles are owned, used and managed. 
+The transportation industry is undergoing a major transformation. Market forces and technological advances are redefining how vehicles are owned, used and managed.
 
 #### From Buying to Using Vehicles
 
@@ -36,7 +36,7 @@ An entire industry is in a state of flux presenting a huge opportunity for us…
 
 ### STRATIM will be the underlying infrastructure that powers everything that moves.
 
-We don't believe that those in the transportation industry who have been successful in the past are guaranteed to be successful in the future. Instead we see a new set of truths that govern success. It is the companies that adapt who will be successful. 
+We don't believe that those in the transportation industry who have been successful in the past are guaranteed to be successful in the future. Instead we see a new set of truths that govern success. It is the companies that adapt who will be successful.
 
 #### Fleets will become the backbone of transportation
 
@@ -48,13 +48,33 @@ Systems of intelligence, that leverage connected vehicle data, will lower operat
 
 #### Disparate systems will be unified
 
-Companies who have thrived on business units operating independently are becoming their own bottleneck. Operations, customer success, inventory management and maintenance teams can no longer work autonomously to produce a transportation company. The unification of systems, teams and procedures across a transportation offering will allow companies to unlock efficiencies and gain new insights. 
+Companies who have thrived on business units operating independently are becoming their own bottleneck. Operations, customer success, inventory management and maintenance teams can no longer work autonomously to produce a transportation company. The unification of systems, teams and procedures across a transportation offering will allow companies to unlock efficiencies and gain new insights.
 
 #### Platforms will become the fabric for the transportation industry
 
-Like electricity grids and water systems for cities, software based platforms will act as the plumbing for an industry that to date as operated on an analog plane. 
+Like electricity grids and water systems for cities, software based platforms will act as the plumbing for an industry that to date as operated on an analog plane.
 
 This is where STRATIM comes in.
+
+---
+
+## How We Win {#howwewin}
+
+### We’re enabling the future of mobility by solving operational complexity for our customers.
+
+While others offer segmented software or service solutions, at STRATIM we fundamentally believe that a true platform for the transportation industry will house a holistic suite of software and service under a single roof. STRATIM win’s when we are the only platform needed to run a transportation company. And when wins, we unchain our customers resources so they can be focused on growing their business, not running it. 
+
+#### Out-Execute Our Competition
+
+Our largest customers as well as established software outfits will always work to replicate our roadmap; our recipe for success is turning out solutions faster than their own internal efforts.
+
+#### Building With Purpose
+
+It’s not just that we do things quickly, we do things intelligently and with purpose. We don’t carry around with the tax of legacy software infrastructure or management structure; our internal operations run smoother and leaner than the competition. 
+
+#### Being An Outsider
+
+Our leadership team does not have a transportation background - instead we are technologist. This is one of our greatest assets; we solve problems with data, software and automation.
 
 ---
 
