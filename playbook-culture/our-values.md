@@ -6,7 +6,9 @@ bodyClass: values
 
 ---
 
-Our people solve complexity for the people around them everyday. Here’s the values we live by:
+The team at STRATIM work to solve complexity for the people around them everyday. Everyone who works at STRATIM is a shareholder. We believe our vision is strengthened and elevated by the people that work here. Each of us is an integral part of the business and key to our success. 
+
+Here are the values we live by:
 
 _Note: Our values our dynamic and evolve over time, they are shaped and governed by the team. We love hearing ways that we can live our values and also ways they can be improved._
 
@@ -67,3 +69,6 @@ Execute with intention, not impulsion. Balance acting urgently in the now, with 
 * **Turn on the lights.** We seek out ways to create transparency. The more knowledge we share, the stronger we become. We say goodbye to silos and get excited about bringing others into the fold. Transparency leads to unity.
 * **Be present.** The greatest gift you can give someone is your attention. We bring our full selves into the interactions we have with the people around us.
 * **Celebrate together.** We is always greater than me. We celebrate every win as one, no matter how big or small, be it professional or personal. Unity is our greatest asset.
+
+
+

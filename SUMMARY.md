@@ -13,14 +13,8 @@
   * [The State of Our Industry](/playbook-general/dna.md#stateofourindustry)
   * [Our Vision](playbook-general/dna.md#ourvision)
   * [How We Win](/playbook-general/dna.md#howwewin)
-  * [Our mission](playbook-general/dna.md#ourmission)
-  * [You're part of this future](playbook-general/dna.md#yourepartofthisfuture)
-  * [Who are our customers?](playbook-general/dna.md#whoareourcustomers)
-  * [How does STRATIM help them win?](playbook-general/dna.md#how-does-stratim-help-them-win)
-  * [What do we have for our customers?](playbook-general/dna.md#whatdowehaveforourcustomers)
-    * [STRATIM Platform](playbook-general/dna.md#stratimplatform)
-    * [STRATIM Marketplace](playbook-general/dna.md#stratimmarketplace)
-    * [STRATIM Essentials](playbook-general/dna.md#stratimessentials)
+  * [Our customers](/playbook-general/dna.md#whoareourcustomers)
+  * [Our Offerings](/playbook-general/dna.md#ourofferings)
 
 ## Culture Playbook
 
