@@ -126,28 +126,26 @@ The **Client Portal**: A full software suite to maximize the performance & profi
 
 The **Vendor Portal**: A full suite of software tools maximize the performance & profitability of their **workforce**.
 
-
-
 ### STRATIM Marketplace
 
 Underpinning the **STRATIM Platform** is the **STRATIM Marketplace**. This is where clients and vendors can connect, transact and work with each other.
 
-Our Clients and Vendors can do this in two ways. 
+Our Clients and Vendors can do this in two ways.
 
 1. By plug in all their pre-existing relationships to centralize operations, increase efficiency and gain needed transparency. 
 2. By finding and contracting with new parties to further grow their business.
 
 Vendors can also sub-contract and work with other vendors in the **STRATIM Marketplace** to offer a more holistic services to Clients. When Vendors work together on the **STRATIM Platform** we call these relationships **Vendor Partners**.
 
-Whenever clients and vendors connect through the **STRATIM Marketplace**, STRATIM acts as the clearing house, processing the payments between both of our customers. It also simplifies all the admin, from contracts right through to invoicing. 
+Whenever clients and vendors connect through the **STRATIM Marketplace**, STRATIM acts as the clearing house, processing the payments between both of our customers. It also simplifies all the admin, from contracts right through to invoicing.
 
-### STRATIM Essentials 
+### STRATIM Essentials
 
-Running within the **STRATIM Marketplace** are our very own premium vendor fleet services. We call these fleet services **STRATIM Essentials**. 
+Running within the **STRATIM Marketplace** are our very own premium vendor fleet services. We call these fleet services **STRATIM Essentials**.
 
-#### The case for STRATIM Essentials 
+#### The case for STRATIM Essentials
 
-Some may ask why a software company would be providing on services. Given vision of platform unification we challenge why any true platform could be sustained without this offering More, **STRATIM Essentials** are the first fully native fleet services powered by the **STRATIM Platform** and offered through the **STRATIM Marketplace**. We offering them so the entire industry can rethink how modern fleets run at optimum efficiency without being weighed down by legacy systems. 
+Some may ask why a software company would be providing on services. Given vision of platform unification we challenge why any true platform could be sustained without this offering More, **STRATIM Essentials** are the first fully native fleet services powered by the **STRATIM Platform** and offered through the **STRATIM Marketplace**. We offering them so the entire industry can rethink how modern fleets run at optimum efficiency without being weighed down by legacy systems.
 
 ##### Core tenets to the competitive advantage of STRATIM Essentials
 
@@ -156,7 +154,7 @@ Some may ask why a software company would be providing on services. Given vision
 3. **Quality Of Workforce** - **STRATIM Essentials** has the highest-quality workforce pool in the industry
 4. **Pricing** - **STRATIM Essentials** clients get all of the above at a price competitive with existing vendors.
 
-### STRATIM Essentials Service Categories  
+### STRATIM Essentials Service Categories
 
 #### Transportation Services
 
@@ -168,24 +166,20 @@ We also provide vehicle storage leasing to clients in targeted locations around 
 
 #### Future Services
 
-Our transportation and storage services are just the first of many fleet services we will offer as the **STRATIM Essentials** brand expands and grows. We mandate is to build out a full suite of services where we can leverage our competitive advantage in workforce onboarding and management, reliability, and ease of use, all powered by the **STRATIM platform**, to enable our clients to run highly efficient fleets at scale.  
+Our transportation and storage services are just the first of many fleet services we will offer as the **STRATIM Essentials** brand expands and grows. We mandate is to build out a full suite of services where we can leverage our competitive advantage in workforce onboarding and management, reliability, and ease of use, all powered by the **STRATIM platform**, to enable our clients to run highly efficient fleets at scale.
 
-The Importance of **STRATIM Essentials** for the overall STRATIM Business 
+The Importance of **STRATIM Essentials** for the overall STRATIM Business
 
 1. **Premium** - We are the best in the game and go above and beyond to delight our clients.
 2. **Enabler** - Our **STRATIM Essentials** business is a key driver of growth at the company. **STRATIM Essentials’** success is powered by the **STRATIM Platform** and in turn it means we are always eating our own dog food. It’s success enables the company to build out more technology.
 3. **Beachhead** - Many clients’ first introduction to STRATIM comes through the ordering of services from **STRATIM Essentials**, which can solve an immediate, tangible problem. After a positive experience with **STRATIM Essentials**, clients are motivated to have visibility to all of their vendors in the same place.
-4. **Flagbearer** - It’s the ultimate case study for our customers - it is our most effective tool to convince new clients and vendors to become customers of the** STRATIM Platform**.
-
-### 
+4. **Flagbearer** - It’s the ultimate case study for our customers - it is our most effective tool to convince new clients and vendors to become customers of the** STRATIM Platform**
 
 ---
 
-##  {#whatdowehaveforourcustomers}
+## Our People {#ourpeople}
 
-## Our people
-
-The team at STRATIM work to solve complexity for the people around them everyday. Everyone who works at STRATIM is a shareholder. We believe our vision is strengthened and elevated by the people that work here. Each of us is an integral part of the business and key to our success. 
+The team at STRATIM work to solve complexity for the people around them everyday. Everyone who works at STRATIM is a shareholder. We believe our vision is strengthened and elevated by the people that work here. Each of us is an integral part of the business and key to our success.
 
 [Here are the values we live by](/playbook-culture/):
 

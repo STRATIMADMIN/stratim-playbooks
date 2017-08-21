@@ -13,8 +13,9 @@
   * [The State of Our Industry](/playbook-general/dna.md#stateofourindustry)
   * [Our Vision](playbook-general/dna.md#ourvision)
   * [How We Win](/playbook-general/dna.md#howwewin)
-  * [Our customers](/playbook-general/dna.md#whoareourcustomers)
+  * [Our Customers](/playbook-general/dna.md#whoareourcustomers)
   * [Our Offerings](/playbook-general/dna.md#ourofferings)
+  * [Our People](/playbook-general/dna.md#ourpeople)
 
 ## Culture Playbook
 
