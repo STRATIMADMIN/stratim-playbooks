@@ -88,29 +88,94 @@ Companies that **service fleets of vehicles** -- We call them **Vendors**.
 
 There are several verticals that our customers classify themselves under.
 
-Rideshare \| Carshare \| Rental \| Manufacturers \| Dealership 
+Rideshare \| Carshare \| Rental \| Manufacturers \| Dealership
 
-While these verticals are different favors of the same base concept - corporate fleets - we believe that offering solutions based on client defined vertical is critical. Still, as more companies in the transportation industry become aware of the transition from ownership to usage, we believe more businesses will move to own and manage their own fleets in all verticals. 
+While these verticals are different favors of the same base concept - corporate fleets - we believe that offering solutions based on client defined vertical is critical. Still, as more companies in the transportation industry become aware of the transition from ownership to usage, we believe more businesses will move to own and manage their own fleets in all verticals.
 
 ### Vendors
 
-There are numerous types of services that are needed to keep a fleet fully functional. 
+There are numerous types of services that are needed to keep a fleet fully functional.
 
 Transportation \| Storage \| Fueling/Charging \| Washing \| Parts Replacement
 
-We believe vendor categories are real and distinct so the list referenced is not exhaustive. Vendors specialise in performing different types of services to fleets and that is a good thing.   
+We believe vendor categories are real and distinct so the list referenced is not exhaustive. Vendors specialise in performing different types of services to fleets and that is a good thing.
 
 ### Who Our Customers Are Not
 
-Clearly defining what something is not is just as important as saying what is. 
+Clearly defining what something is not is just as important as saying what is.
 
-As a B2B business, our customers have their own customers. We call these customers the end-users because, at the end of the day, the use our customers fleets. Today we do not consider end-users our customers. We enable businesses to serve their end-users, but we do not transact with end-users directly. 
+As a B2B business, our customers have their own customers. We call these customers the end-users because, at the end of the day, the use our customers fleets. Today we do not consider end-users our customers. We enable businesses to serve their end-users, but we do not transact with end-users directly.
 
 This will likely change in the future as a true platform for the transportation industry includes end-user management.
 
 ---
 
 ## Our Offerings {#ourofferings}
+
+### STRATIM Platform
+
+This is the lynchpin of STRATIM: a full software suite to maximize the performance and profitability of our customers fleets and workforce. It provides a simple yet powerful way to drive down costs and scale their business.
+
+Our software allows clients and vendors to centrally manage all aspects of business within a modern interface that tracks, routes, analyzes, and controls their assets, whether those are fleets, a workforce or both. It leverages computer-driven workflows to remove human errors and decision making throughout the organization.
+
+The STRATIM Platform connects all customer operations into a central hub called the Portal. This automates repetitive tasks and streamlines complex workflows, optimizing fleet routes and distributing tasks for maximum efficiency. Then it collects the data it receives from your connected operations and delivers insights on how to further optimize fleet operations.
+
+The software is separated into two products, one for each customer segment:
+
+The **Client Portal**: A full software suite to maximize the performance & profitability of their **fleets**.
+
+The **Vendor Portal**: A full suite of software tools maximize the performance & profitability of their **workforce**.
+
+
+
+### STRATIM Marketplace
+
+Underpinning the **STRATIM Platform** is the **STRATIM Marketplace**. This is where clients and vendors can connect, transact and work with each other.
+
+Our Clients and Vendors can do this in two ways. 
+
+1. By plug in all their pre-existing relationships to centralize operations, increase efficiency and gain needed transparency. 
+2. By finding and contracting with new parties to further grow their business.
+
+Vendors can also sub-contract and work with other vendors in the **STRATIM Marketplace** to offer a more holistic services to Clients. When Vendors work together on the **STRATIM Platform** we call these relationships **Vendor Partners**.
+
+Whenever clients and vendors connect through the **STRATIM Marketplace**, STRATIM acts as the clearing house, processing the payments between both of our customers. It also simplifies all the admin, from contracts right through to invoicing. 
+
+### STRATIM Essentials 
+
+Running within the **STRATIM Marketplace** are our very own premium vendor fleet services. We call these fleet services **STRATIM Essentials**. 
+
+#### The case for STRATIM Essentials 
+
+Some may ask why a software company would be providing on services. Given vision of platform unification we challenge why any true platform could be sustained without this offering More, **STRATIM Essentials** are the first fully native fleet services powered by the **STRATIM Platform** and offered through the **STRATIM Marketplace**. We offering them so the entire industry can rethink how modern fleets run at optimum efficiency without being weighed down by legacy systems. 
+
+##### Core tenets to the competitive advantage of STRATIM Essentials
+
+1. **Reliability** - **STRATIM Essentials** offers industry-leading on-time performance.
+2. **Ease of use** - Everything about ordering services from **STRATIM Essentials**, from communication to order tracking, is best-in-class.
+3. **Quality Of Workforce** - **STRATIM Essentials** has the highest-quality workforce pool in the industry
+4. **Pricing** - **STRATIM Essentials** clients get all of the above at a price competitive with existing vendors.
+
+### STRATIM Essentials Service Categories  
+
+#### Transportation Services
+
+This is our inaugural and largest fleet service. The Essentials workforce, powered by the **STRATIM Workforce App** and dispatched tasks through the **STRATIM Vendor Portal**, transport vehicles from A to B on behalf of our clients.
+
+#### Storage Services
+
+We also provide vehicle storage leasing to clients in targeted locations around the country.
+
+#### Future Services
+
+Our transportation and storage services are just the first of many fleet services we will offer as the **STRATIM Essentials** brand expands and grows. We mandate is to build out a full suite of services where we can leverage our competitive advantage in workforce onboarding and management, reliability, and ease of use, all powered by the **STRATIM platform**, to enable our clients to run highly efficient fleets at scale.  
+
+The Importance of **STRATIM Essentials** for the overall STRATIM Business 
+
+1. **Premium** - We are the best in the game and go above and beyond to delight our clients.
+2. **Enabler** - Our **STRATIM Essentials** business is a key driver of growth at the company. **STRATIM Essentials’** success is powered by the **STRATIM Platform** and in turn it means we are always eating our own dog food. It’s success enables the company to build out more technology.
+3. **Beachhead** - Many clients’ first introduction to STRATIM comes through the ordering of services from **STRATIM Essentials**, which can solve an immediate, tangible problem. After a positive experience with **STRATIM Essentials**, clients are motivated to have visibility to all of their vendors in the same place.
+4. **Flagbearer** - It’s the ultimate case study for our customers - it is our most effective tool to convince new clients and vendors to become customers of the** STRATIM Platform**.
 
 ### 
 
@@ -120,5 +185,7 @@ This will likely change in the future as a true platform for the transportation 
 
 ## Our people
 
-Solve complexity for the people around them everyday. [Here’s the values we live by](/playbook-culture/):
+The team at STRATIM work to solve complexity for the people around them everyday. Everyone who works at STRATIM is a shareholder. We believe our vision is strengthened and elevated by the people that work here. Each of us is an integral part of the business and key to our success. 
+
+[Here are the values we live by](/playbook-culture/):
 
