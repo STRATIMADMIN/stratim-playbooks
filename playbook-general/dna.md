@@ -4,13 +4,57 @@
 
 ## Who are we? {#whoarewe}
 
-We are a team of pioneers that thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and tremendous value in transforming complexity into something elegant, simple and intuitive. This belief governs everything that we do.
+We thrive in complexity. Where others see chaos, we see opportunity. We believe there’s beauty and value in transforming the complex into something elegant, intuitive and powerful. This belief governs everything we do.
 
 Today we’re solving complexity in the transportation industry.
 
-The transportation industry is incredibly inefficient and weighed down by outdated operational processes - this costs businesses a huge amount of time and money. The industry is also on the cusp of a major transformation. Market forces and technological advances are redefining how vehicles are owned and used. Businesses are all fighting to remain relevant in a hyper competitive market, largely driven by consumers not CEOs. \(as they do this operational complexity increases and gets in the way of growth\) Those that win will solve the operational complexity and focus their time on creating value for their customers. Not running the backend of their business.
+---
 
-That’s where we come in!
+## The State of Our Industry {#stateofourindustry}
+
+### A New Era Of Mobility Is Approaching
+
+The transportation industry is undergoing a major transformation. Market forces and technological advances are redefining how vehicles are owned, used and managed. 
+
+#### From Buying to Using Vehicles
+
+Owning a vehicle is no longer the most convenient or cost effective way to get from A to B. Instead, vehicles are being amassed into fleets by corporations who then offer consumers the ability to use these vehicles for their transportation needs with an as needed model.
+
+#### From Low Vehicle Utilization to High Vehicle Utilization
+
+In the past vehicles were largely inactive; they lay idle in parking lots or driveways 90% of the time. For the first time emerging business models are putting these idle assets to work — increasing the amount of time a single vehicle is on the road and simultaneously decreasing the overall amount of vehicles that are needed.
+
+#### From Driving Around to being Driven Around
+
+The ability to drive oneself around has historically been considered a luxury; sign of freedom. But this trend is waning. Instead consumers are finding freedom in unchaining themselves from a vehicle they need to maintain and drive. They are migrating to being moved around by professionals, and soon after that AI.
+
+An entire industry is in a state of flux presenting a huge opportunity for us…
+
+---
+
+## Our Vision {#ourvision}
+
+### STRATIM will be the underlying infrastructure that powers everything that moves.
+
+We don't believe that those in the transportation industry who have been successful in the past are guaranteed to be successful in the future. Instead we see a new set of truths that govern success. It is the companies that adapt who will be successful. 
+
+#### Fleets will become the backbone of transportation
+
+A handful of corporations are going to own a massive amount of vehicles. These huge fleets will be continuously moving vast amounts of people around everyday. The outcome is fleets in the hundreds of thousands that produce a mobility experience but come with maintenance and oversights needs. At this large scale the complexity of owning vehicle's increases exponentially.
+
+#### Automation, AI & ML will solve unsolved inefficiencies in fleet management
+
+Systems of intelligence, that leverage connected vehicle data, will lower operational costs and increase utilization of fleets by removing the natural error in human driven fleet management. Instead of sticky notes, clip pads, text messages and spreadsheets, real time algorithmic tools will make the same set of decisions as their human fleet management counterparts but with far more precision.
+
+#### Disparate systems will be unified
+
+Companies who have thrived on business units operating independently are becoming their own bottleneck. Operations, customer success, inventory management and maintenance teams can no longer work autonomously to produce a transportation company. The unification of systems, teams and procedures across a transportation offering will allow companies to unlock efficiencies and gain new insights. 
+
+#### Platforms will become the fabric for the transportation industry
+
+Like electricity grids and water systems for cities, software based platforms will act as the plumbing for an industry that to date as operated on an analog plane. 
+
+This is where STRATIM comes in.
 
 ---
 
@@ -29,21 +73,6 @@ With the X industry in flux, everyone is placing their bets how the future will 
 ## You’re part of this future {#yourepartofthisfuture}
 
 _Content TBC_
-
----
-
-## Our Vision - _CONTENT TBC_ {#ourvision}
-
-We believe that whatever the future holds, there are some basic underlying core principles that will drive all this change and our job is to enable the industry to be ready:
-
-1. From BUYING to USING vehicles
-2. Fewer cars will be sold and their going to be used more
-3. From DRIVING around to being DRIVEN around
-4. Moving from ownership to usage. Usage is called ride sharing.
-
-There’s a change afoot. Cell phone bill… moving to usage. Huge flux, scaring people and we see opportunity in this change. With all this uncertainty we see a big opportunity.
-
-Whatever usage based model wins we’re going to be there
 
 ---
 
@@ -156,3 +185,4 @@ Our transportation and parking services are the the first of many fleet services
 ## Our people
 
 Solve complexity for the people around them everyday. [Here’s the values we live by](/playbook-culture/):
+

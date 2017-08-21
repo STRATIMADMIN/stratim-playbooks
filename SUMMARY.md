@@ -5,14 +5,14 @@
 * [Cover](README.md)
 * [Playbook's Purpose](about.md)
 
-## Playbook General
+## STRATIM DNA Playbook
 
 * [Introduction](playbook-general/README.md)
-* [Index](playbook-general/dna.md)
+* [STRATIM DNA](playbook-general/dna.md)
   * [Who are we?](playbook-general/dna.md#whoarewe)
+  * [Our vision](playbook-general/dna.md#ourvision)
   * [Our mission](playbook-general/dna.md#ourmission)
   * [You're part of this future](playbook-general/dna.md#yourepartofthisfuture)
-  * [Our vision](playbook-general/dna.md#ourvision)
   * [Who are our customers?](playbook-general/dna.md#whoareourcustomers)
   * [How does STRATIM help them win?](playbook-general/dna.md#how-does-stratim-help-them-win)
   * [What do we have for our customers?](playbook-general/dna.md#whatdowehaveforourcustomers)
