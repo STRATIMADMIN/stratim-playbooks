@@ -6,9 +6,9 @@ bodyClass: values
 
 ---
 
-The team at STRATIM work to solve complexity for the people around them everyday. Everyone who works at STRATIM is a shareholder. We believe our vision is strengthened and elevated by the people that work here. Each of us is an integral part of the business and key to our success. 
+The team at STRATIM work to solve complexity for the people around them everyday. Everyone who works at STRATIM is a shareholder. We believe our vision is strengthened and elevated by the people that work here. Each of us is an integral part of the business and key to our success.
 
-Here are the values we live by:
+We strive to live by these values.
 
 _Note: Our values our dynamic and evolve over time, they are shaped and governed by the team. We love hearing ways that we can live our values and also ways they can be improved._
 
