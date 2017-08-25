@@ -44,3 +44,21 @@
 
 * [Introduction](playbook-essentials/README.md)
 
+## Marketing Playbook
+
+* [Introduction to the Marketing Playbook](marketing-playbook/introduction-to-the-marketing-playbook.md)
+* STRATIM Style Guide
+  * [Fonts](marketing-playbook/fonts.md)
+  * STRATIM Logo
+  * [Copy](marketing-playbook/copy.md)
+    * Terminology
+    * Tone of Voice
+  * [Templates](marketing-playbook/templates.md)
+    * Presentations
+  * Image Assets
+    * Offline Image Assets
+    * [Online Image Assets](marketing-playbook/web-image-assets.md)
+  * Colors
+  * Dos and Don'ts
+* [Marketing Collateral](marketing-playbook/marketing-collateral.md)
+
